@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- Compiled and minified JavaScript -->
+        <!-- <script  src = " https://code.jquery.com/jquery-migrate-3.3.2 .js "></script> -->
+        <script  src = " https://code.jquery.com/jquery-3.0.0.js " ></script> 
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+        <!-- <script src="js/jquery.js"></script> -->
+        <!-- <script src="js/nouislider.js"></script> -->
+        <script src="js/app.js"></script>
+
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Twitter Control</title>
+</head>
+
+<body class="center ">
+    <div class="row">
+        <div class="col m3"></div>
+        <div class="col m6">
+            <!-- Tarjeta -->
+            <div class="col-m12">
+                <div class="card  grey lighten-3">
+                    <div class="card-content">
+                        <img class="icon" src="img/icons/logotipo-social-de-twitter.png" style="width: 30px; height: 30px;" alt="">
+                        <span class="card-title">Twitter Controller</span>
+                    </div>
+                    <div class="row">
+                        <div class="col s12">
+                            <h6>Opciones</h6>
+                        </div>
+                        <div class="row">
+                        <div class="col s3">
+                            <label>Mostrar respuestas</label>
+                            <div class="switch">
+                                <label>
+                                    Off
+                                    <input type="checkbox" id="show-replies">
+                                    <span class="lever"></span>
+                                    On
+                                </label>
+                            </div>
+                        </div>
+                        <div class="col s3">
+                            <label>Tema Obscuro</label>
+                            <div class="switch">
+                                <label>
+                                    Off
+                                    <input type="checkbox" id="theme">
+                                    <span class="lever"></span>
+                                    On
+                                </label>
+                            </div>
+                        </div>
+                        <div class="col s3">
+                            <label>dtn</label>
+                            <div class="switch">
+                                <label>
+                                    Off
+                                    <input type="checkbox" id="dnt">
+                                    <span class="lever"></span>
+                                    On
+                                </label>
+                            </div>
+                        </div>
+                        <div class="col s3">
+                            <label>Timeline</label>
+                            <div class="switch">
+                                <label>
+                                    Off
+                                    <input type="checkbox" id="timeline">
+                                    <span class="lever"></span>
+                                    On
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                        <div class="row">
+                            <div class="col s12">
+                                <h6>Diseño de pantalla </h6>
+                            </div>
+                            <div class="row">
+                            <div class="col s4">
+                                <p>
+                                    <label class="left-align">
+                                        <input type="checkbox" class="chrome" value="noheader" />
+                                        <span>Cabecera</span>
+                                    </label>
+                                </p>
+                            </div>
+                            <div class="col s4">
+                                <p>
+                                    <label>
+                                        <input type="checkbox" class="chrome" value="nofooter" />
+                                        <span>Footer</span>
+                                    </label>
+                                </p>
+                            </div>
+                            <div class="col s4" style="padding-right: 25px;">
+                                <p>
+                                    <label>
+                                        <input type="checkbox" class="chrome" value="noborders" />
+                                        <span>Bordes</span>
+                                    </label>
+                                </p>
+                            </div>
+                          </div>
+                        <div class="row">
+                            <div class="col s6">
+                                <p>
+                                    <label>
+                                        <input type="checkbox" class="chrome" value="transparent" />
+                                        <span>Transparentar</span>
+                                    </label>
+                                </p>
+                            </div>
+                            <div class="col s6">
+                                <p>
+                                    <label>
+                                        <input type="checkbox" class="chrome" value="noscrollbar" />
+                                        <span>Scroll</span>
+                                    </label>
+                                </p>
+                            </div>
+                         </div>
+                                   <!-- </div> -->
+                                     <!-- <div class="row pink accent-2 col-s12" style="width: 80%; text-align: center;"> -->
+                         <div class="row">
+                            <form class="col s12" style="padding: 4%;">
+                              <div class="row">
+                                <div class="input-field col s6"  >
+                                  <i class="material-icons prefix">arrow_forward</i>
+                                  <input id="width" type="number" class="validate">
+                                  <label for="icon_prefix">Ancho</label>
+                                </div>
+                                <div class="input-field col s6">
+                                  <i class="material-icons prefix">arrow_downward</i>
+                                  <input id="height" type="number" class="validate">
+                                  <label for="icon_telephone">Alto</label>
+                                </div>
+                                <div class="input-field col s12">
+                                    <i class="material-icons prefix">pageview</i>
+                                    <input id="page" type="number" class="validate">
+                                    <label for="icon_telephone">Pagina de origen</label>
+                                  </div>
+                              </div>
+                            </form>
+                          </div>
+                                
+                            <div class="col s12" style="padding: 3%;">
+                                <div class="input-field">
+                                    <select id="tweet-limit">
+                                      <option value="20" disabled selected>20</option>
+                                      <option value="1">1</option>
+                                      <option value="2">2</option>
+                                      <option value="3">3</option>
+                                      <option value="4">4</option>
+                                      <option value="5">5</option>
+                                      <option value="6">6</option>
+                                      <option value="7">7</option>
+                                      <option value="8">8</option>
+                                      <option value="9">9</option>
+                                      <option value="10">10</option>
+                                      <option value="11">11</option>
+                                      <option value="12">12</option>
+                                      <option value="13">13</option>
+                                      <option value="14">14</option>
+                                      <option value="15">15</option>
+                                      <option value="16">16</option>
+                                      <option value="17">17</option>
+                                      <option value="18">18</option>
+                                      <option value="19">19</option>
+                                      <option value="20">19</option>
+                                    </select>
+                                    <label>Numero de tweets</label>
+                                  </div>
+                            </div>
+                
+                    </div>
+                    <!-- generate link -->
+                    <div class="card-action">
+                        <div class="row">
+                            <div class="col s12">
+                                <a class="waves-effect waves-light btn-small  light-blue accent-3" id="generar-link"><i class="tiny material-icons right">flash_on</i>Generar Link</a>
+                            </div>
+                        </div>
+                        <div class="row valign-wrapper">
+                            <div class="col s9">
+                                <form action="#">
+                                
+                                      <div class="">
+                                        <input class="" type="text" placeholder="Link" id="get-link">
+                                      </div>
+                                
+                                  </form>
+                            </div>
+                            <div class="col s3 ">
+                                <a class="waves-effect waves-light btn-small  light-blue accent-3"><i class="tiny material-icons right">content_copy</i>copiar</a>
+                            </div>
+                        </div>     
+                    </div>
+                    <!-- end generate link  -->
+                </div>
+            </div>
+            <!-- fin de tarjeta  -->
+        </div>
+        <div class="col m3">
+
+        </div>
+    </div>
+</body>
+
+</html>
