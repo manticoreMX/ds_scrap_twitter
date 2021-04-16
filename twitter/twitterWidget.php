@@ -1,7 +1,12 @@
+<?php
+    $interval = 5000;
+    if(isset($_GET['interval']) && $_GET['interval'] != '')
+        $interval = $_GET['interval'];
+?>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
 <div id="container"></div>
-<div id="tweets-carousel" class="carousel slide" data-bs-ride="carousel">
+<div id="tweets-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="<?=$interval?>" data-bs-pause="false">
     <div class="carousel-inner">
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#tweets-carousel" data-bs-slide="prev">

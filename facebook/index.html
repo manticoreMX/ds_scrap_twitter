@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <title>Facebook Control</title>
+</head>
+
+<body>
+    <div class="row">
+        <div class="col m3"></div>
+        <div class="col m6">
+            <!-- Tarjeta -->
+            <div class="card col m12 grey lighten-3">
+                <div class="card-content">
+                    <div class="center">
+                        <img class="icon" src="img/icons/logotipo-social-de-facebook.png"
+                            style="width: 30px; height: 30px;" alt="">
+                        <span class="card-title">Facebook Controller</span>
+                    </div>
+
+                    <div class="row col s12 center">
+                        <h5>Opciones</h5>
+                    </div>
+
+                    <div class="row">
+                        <div class="input-field col s6">
+                            <input id="page" type="text" class="validate">
+                            <label for="page">Usuario</label>
+                        </div>
+                        <div class="col s6">
+                            <div class="input-field">
+                                <select id="tweet-limit">
+                                    <option value="1">1</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                    <option value="5">5</option>
+                                    <option value="6">6</option>
+                                    <option value="7">7</option>
+                                    <option value="8">8</option>
+                                    <option value="9">9</option>
+                                    <option value="10">10</option>
+                                    <option value="11">11</option>
+                                    <option value="12">12</option>
+                                    <option value="13">13</option>
+                                    <option value="14">14</option>
+                                    <option value="15">15</option>
+                                    <option value="16">16</option>
+                                    <option value="17">17</option>
+                                    <option value="18">18</option>
+                                    <option value="19">19</option>
+                                    <option value="20" selected>20</option>
+                                </select>
+                                <label>Numero de posts</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col s6">
+                            <label>Vista</label>
+                            <div class="switch">
+                                <label>
+                                    Posts
+                                    <input type="checkbox" id="timeline">
+                                    <span class="lever"></span>
+                                    Time Line
+                                </label>
+                            </div>
+                        </div>
+                        <div class="input-field col s6" id="interval-content">
+                            <input id="interval" type="number" class="validate">
+                            <label for="interval">Interval</label>
+                        </div>
+                    </div>
+                </div>
+                <!-- generate link -->
+                <div class="card-action center">
+                    <div class="row">
+                        <div class="col s12">
+                            <a class="waves-effect waves-light btn-small  light-blue accent-3" id="generar-link"><i
+                                    class="tiny material-icons right">flash_on</i>Generar Link</a>
+                        </div>
+                    </div>
+                    <div class="row valign-wrapper">
+                        <div class="col s9">
+                            <form action="#">
+
+                                <div class="">
+                                    <input class="" type="text" placeholder="Link" id="get-link">
+                                </div>
+
+                            </form>
+                        </div>
+                        <div class="col s3 ">
+                            <a id="copy-text" class="waves-effect waves-light btn-small  light-blue accent-3">copiar<i class="tiny material-icons right">content_copy</i></a>
+                        </div>
+                    </div>
+                </div>
+                <!-- end generate link  -->
+            </div>
+        </div>
+    </div>
+    <!-- fin de tarjeta  -->    
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script src="js/app.js"></script>
+</body>
+
+</html>
