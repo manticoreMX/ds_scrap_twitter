@@ -1,0 +1,1779 @@
+{
+    "GraphImages": [
+        {
+            "__typename": "GraphVideo",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/176869808_2814066048846690_7054741112485325854_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=ZhfM4_N2X6UAX_JYhta&edm=APU89FAAAAAA&ccb=7-4&oh=c0042b404c9f208e950bc22118332445&oe=60859A2D&_nc_sid=86f79a",
+            "edge_media_preview_like": {
+                "count": 119
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We have the ability to make a difference in the #RealEstate industry, but that can only happen when we all work together to #RestoreOurEarth. Here are a few actionable ideas businesses and individuals can do to make a positive impact.\n\n#EarthDay #GreenWeek"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 2
+            },
+            "gating_info": null,
+            "id": "2557529033158923019",
+            "is_video": true,
+            "media_preview": "ACoq5miiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP/Z",
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "CN-Kxr0L5ML",
+            "tags": [
+                "RealEstate",
+                "GreenWeek",
+                "EarthDay",
+                "RestoreOurEarth"
+            ],
+            "taken_at_timestamp": 1619101314,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/s150x150/176869808_2814066048846690_7054741112485325854_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=ZhfM4_N2X6UAX_JYhta&edm=APU89FAAAAAA&ccb=7-4&oh=ea08dd6dca1271c4b2ba4436bfb69ffd&oe=608560B7&_nc_sid=86f79a"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/s240x240/176869808_2814066048846690_7054741112485325854_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=ZhfM4_N2X6UAX_JYhta&edm=APU89FAAAAAA&ccb=7-4&oh=efb0da280136e40a085c39441f6d7939&oe=6085A3BF&_nc_sid=86f79a"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/s320x320/176869808_2814066048846690_7054741112485325854_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=ZhfM4_N2X6UAX_JYhta&edm=APU89FAAAAAA&ccb=7-4&oh=d61cacb0db07a6c3555bd5493e19b000&oe=608587A2&_nc_sid=86f79a"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/s480x480/176869808_2814066048846690_7054741112485325854_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=ZhfM4_N2X6UAX_JYhta&edm=APU89FAAAAAA&ccb=7-4&oh=435c698efd94632bf56d0c8aeaeca283&oe=608582E4&_nc_sid=86f79a"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/176869808_2814066048846690_7054741112485325854_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=ZhfM4_N2X6UAX_JYhta&edm=APU89FAAAAAA&ccb=7-4&oh=0883fd3597f262807ad07a1b65f8677e&oe=6085E8A9&_nc_sid=86f79a"
+                }
+            ],
+            "thumbnail_src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/176869808_2814066048846690_7054741112485325854_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=ZhfM4_N2X6UAX_JYhta&edm=APU89FAAAAAA&ccb=7-4&oh=0883fd3597f262807ad07a1b65f8677e&oe=6085E8A9&_nc_sid=86f79a",
+            "urls": [
+                "https://scontent-mia3-2.cdninstagram.com/v/t50.2886-16/175662064_311551813694589_3041505430714301133_n.mp4?_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=109&_nc_ohc=9HhgDJPQ3BMAX9v3afe&edm=AABBvjUAAAAA&ccb=7-4&oe=6085E920&oh=25a60fca5f4362a19501be41228c9cbb&_nc_sid=83d603"
+            ],
+            "username": "cbre",
+            "video_view_count": 687
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 612,
+                "width": 612
+            },
+            "display_url": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/175151989_275584930875707_2057538732199565344_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=uezXq6elVTUAX8m20Sg&edm=APU89FAAAAAA&ccb=7-4&oh=3c124cb31137ac33773a584639e7a132&oe=60A91953&_nc_sid=86f79a&ig_cache_key=MjU1NjEwMTQ4MzI5MzQ5ODA3Ng%3D%3D.2-ccb7-4",
+            "edge_media_preview_like": {
+                "count": 141
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Affordable and workforce housing markets are filled with hard-working residents chasing the American Dream. On #TheWeeklyTake, Avanath Capital Management’s Daryl Carter and #CBRE’s Sarah Garland join Spencer Levy to offer insights on how mission-minded investors are working to expand opportunities. Listen through the link in our bio."
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2556101487781469284",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "CN5GMKlD9xk",
+            "tags": [
+                "CBRE",
+                "TheWeeklyTake"
+            ],
+            "taken_at_timestamp": 1618931064,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/s150x150/175151989_275584930875707_2057538732199565344_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=uezXq6elVTUAX8m20Sg&edm=APU89FAAAAAA&ccb=7-4&oh=dfff0994a0bc6b3c6c258a4947c82448&oe=60A9DBEE&_nc_sid=86f79a&ig_cache_key=MjU1NjEwMTQ4MzI5MzQ5ODA3Ng%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/s240x240/175151989_275584930875707_2057538732199565344_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=uezXq6elVTUAX8m20Sg&edm=APU89FAAAAAA&ccb=7-4&oh=e6821fc47196fc78093e0e9be9b9af63&oe=60A894AC&_nc_sid=86f79a&ig_cache_key=MjU1NjEwMTQ4MzI5MzQ5ODA3Ng%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/s320x320/175151989_275584930875707_2057538732199565344_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=uezXq6elVTUAX8m20Sg&edm=APU89FAAAAAA&ccb=7-4&oh=9980853771fc1d4f35053d24ff46f89c&oe=60A83396&_nc_sid=86f79a&ig_cache_key=MjU1NjEwMTQ4MzI5MzQ5ODA3Ng%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/s480x480/175151989_275584930875707_2057538732199565344_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=uezXq6elVTUAX8m20Sg&edm=APU89FAAAAAA&ccb=7-4&oh=ef5d6a818074eebea597c54050712126&oe=60A802D3&_nc_sid=86f79a&ig_cache_key=MjU1NjEwMTQ4MzI5MzQ5ODA3Ng%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/175151989_275584930875707_2057538732199565344_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=uezXq6elVTUAX8m20Sg&edm=APU89FAAAAAA&ccb=7-4&oh=3c124cb31137ac33773a584639e7a132&oe=60A91953&_nc_sid=86f79a&ig_cache_key=MjU1NjEwMTQ4MzI5MzQ5ODA3Ng%3D%3D.2-ccb7-4"
+                }
+            ],
+            "thumbnail_src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/175151989_275584930875707_2057538732199565344_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=uezXq6elVTUAX8m20Sg&edm=APU89FAAAAAA&ccb=7-4&oh=3c124cb31137ac33773a584639e7a132&oe=60A91953&_nc_sid=86f79a&ig_cache_key=MjU1NjEwMTQ4MzI5MzQ5ODA3Ng%3D%3D.2-ccb7-4",
+            "urls": [
+                "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/175151989_275584930875707_2057538732199565344_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=uezXq6elVTUAX8m20Sg&edm=AABBvjUAAAAA&ccb=7-4&oh=54177fa9af9434b5f4e3e83efecdb2c5&oe=60A91953&_nc_sid=83d603&ig_cache_key=MjU1NjEwMTQ4MzI5MzQ5ODA3Ng%3D%3D.2-ccb7-4",
+                "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/e35/175596196_507032520331606_3319964358393435911_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=110&_nc_ohc=PfJDFg8G8iwAX8pnnyz&edm=AABBvjUAAAAA&ccb=7-4&oh=078b6b7ad97039b6aad3e53ecb6767af&oe=60A75FB0&_nc_sid=83d603&ig_cache_key=MjU1NjEwMTQ4MzM4NTU4ODgyMA%3D%3D.2-ccb7-4",
+                "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/176574770_3734939763270536_3211404898582711542_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=xd0CDLEGs8EAX-Hz1z8&edm=AABBvjUAAAAA&ccb=7-4&oh=022de4ff3417f6836d670830bb23dd66&oe=60A6FCE6&_nc_sid=83d603&ig_cache_key=MjU1NjEwMTQ4MzI2ODM1Njk5OA%3D%3D.2-ccb7-4",
+                "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/175549278_287281029538230_4572195743848868289_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=106&_nc_ohc=Kz83k8KNTBAAX8OeSDz&edm=AABBvjUAAAAA&ccb=7-4&oh=00c9dea5f7f23b79838e259379cad63b&oe=60A81D78&_nc_sid=83d603&ig_cache_key=MjU1NjEwMTQ4MzI3NjY4NTI0OA%3D%3D.2-ccb7-4"
+            ],
+            "username": "cbre"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 612,
+                "width": 612
+            },
+            "display_url": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/176046676_1927979207361008_8502383545751369280_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=oKFzbVEoIekAX84rWHQ&edm=APU89FAAAAAA&ccb=7-4&oh=9cf2326c2f74b2ef4c463ccef9244074&oe=60A7EAC5&_nc_sid=86f79a&ig_cache_key=MjU1NTMyMTYzNTUyODY1NjczMg%3D%3D.2-ccb7-4",
+            "edge_media_preview_like": {
+                "count": 269
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Resident migration patterns are shifting as a result of COVID-19. Using frequently updated USPS data, this report sheds light on where people are choosing to live—and the implications for occupier location and talent strategies and commercial real estate investment decisions. Explore more through the link in our bio."
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 1
+            },
+            "gating_info": null,
+            "id": "2555321639974708665",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "CN2U34tj6W5",
+            "tags": [],
+            "taken_at_timestamp": 1618838098,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/s150x150/176046676_1927979207361008_8502383545751369280_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=oKFzbVEoIekAX84rWHQ&edm=APU89FAAAAAA&ccb=7-4&oh=fdf62e430c4e5b1f48e8e79dc3185bb6&oe=60A738A9&_nc_sid=86f79a&ig_cache_key=MjU1NTMyMTYzNTUyODY1NjczMg%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/s240x240/176046676_1927979207361008_8502383545751369280_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=oKFzbVEoIekAX84rWHQ&edm=APU89FAAAAAA&ccb=7-4&oh=0529e662e3167b996f59ff8ecabe329b&oe=60A890E1&_nc_sid=86f79a&ig_cache_key=MjU1NTMyMTYzNTUyODY1NjczMg%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/s320x320/176046676_1927979207361008_8502383545751369280_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=oKFzbVEoIekAX84rWHQ&edm=APU89FAAAAAA&ccb=7-4&oh=18371b76d63a3543caaec4d288284fce&oe=60A8A300&_nc_sid=86f79a&ig_cache_key=MjU1NTMyMTYzNTUyODY1NjczMg%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/s480x480/176046676_1927979207361008_8502383545751369280_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=oKFzbVEoIekAX84rWHQ&edm=APU89FAAAAAA&ccb=7-4&oh=43509a675de86452420e517cab44339b&oe=60A796BE&_nc_sid=86f79a&ig_cache_key=MjU1NTMyMTYzNTUyODY1NjczMg%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/176046676_1927979207361008_8502383545751369280_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=oKFzbVEoIekAX84rWHQ&edm=APU89FAAAAAA&ccb=7-4&oh=9cf2326c2f74b2ef4c463ccef9244074&oe=60A7EAC5&_nc_sid=86f79a&ig_cache_key=MjU1NTMyMTYzNTUyODY1NjczMg%3D%3D.2-ccb7-4"
+                }
+            ],
+            "thumbnail_src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/176046676_1927979207361008_8502383545751369280_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=oKFzbVEoIekAX84rWHQ&edm=APU89FAAAAAA&ccb=7-4&oh=9cf2326c2f74b2ef4c463ccef9244074&oe=60A7EAC5&_nc_sid=86f79a&ig_cache_key=MjU1NTMyMTYzNTUyODY1NjczMg%3D%3D.2-ccb7-4",
+            "urls": [
+                "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/176046676_1927979207361008_8502383545751369280_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=oKFzbVEoIekAX84rWHQ&edm=AABBvjUAAAAA&ccb=7-4&oh=e8ca6811d16a88e553b2f17ab3cafe8a&oe=60A7EAC5&_nc_sid=83d603&ig_cache_key=MjU1NTMyMTYzNTUyODY1NjczMg%3D%3D.2-ccb7-4",
+                "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/e35/174578267_3492950360806329_613427994397956885_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=109&_nc_ohc=TyWleRgmH8wAX8Ik-vm&edm=AABBvjUAAAAA&ccb=7-4&oh=e7c7fa07e4c197890ee5783aee0cb57f&oe=60A9223F&_nc_sid=83d603&ig_cache_key=MjU1NTMyMTYzNTY3MTI5MjgxNQ%3D%3D.2-ccb7-4",
+                "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/e35/175024134_1132761607205074_1413821469128523337_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=110&_nc_ohc=PtcPvDH5l7oAX_Rg4cw&edm=AABBvjUAAAAA&ccb=7-4&oh=0f8cf2cd73e7d8ac321a2b722d2f8312&oe=60A88434&_nc_sid=83d603&ig_cache_key=MjU1NTMyMTYzNTcwNDg2NjAyNg%3D%3D.2-ccb7-4",
+                "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/175495320_984469915647003_2393394349110914305_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=EkwOF_WWmuUAX8W9w58&edm=AABBvjUAAAAA&ccb=7-4&oh=9daa0d10cd3b9af9d8767e19b4e49a02&oe=60A80EA6&_nc_sid=83d603&ig_cache_key=MjU1NTMyMTYzNTUxMTg5MDE1OA%3D%3D.2-ccb7-4",
+                "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/174834573_309161243891917_8496194852279225918_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=101&_nc_ohc=jj3P8xdKcEgAX92txXA&edm=AABBvjUAAAAA&ccb=7-4&oh=3a4e9a7136eb187ebaa832a9862198cb&oe=60AA50D0&_nc_sid=83d603&ig_cache_key=MjU1NTMyMTYzNTQ5NTA4NDkxNw%3D%3D.2-ccb7-4",
+                "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/e35/176266169_585562686171454_1383946763405036800_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=110&_nc_ohc=q-94hJjBz5YAX8xKN0J&edm=AABBvjUAAAAA&ccb=7-4&oh=08758a37e41ffb30a2ad8d298cb439a2&oe=60A9069D&_nc_sid=83d603&ig_cache_key=MjU1NTMyMTYzNTUyMDMxNTkxNw%3D%3D.2-ccb7-4",
+                "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/175533693_2585411685093868_5749030972946678313_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=104&_nc_ohc=RojvkrqqWIAAX9kWdYg&edm=AABBvjUAAAAA&ccb=7-4&oh=1a143c0781764bfac275d94129f60515&oe=60A8951E&_nc_sid=83d603&ig_cache_key=MjU1NTMyMTYzNTY4NzkwNzI0Ng%3D%3D.2-ccb7-4",
+                "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/e35/174866360_2980399915618593_7189222332343444669_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=109&_nc_ohc=0c4Qg_-vl2wAX-cXlRG&edm=AABBvjUAAAAA&ccb=7-4&oh=ca7d117df57a272c4bbb894727379f11&oe=60A84BFD&_nc_sid=83d603&ig_cache_key=MjU1NTMyMTYzNTY1NDU4NzQ4Ng%3D%3D.2-ccb7-4"
+            ],
+            "username": "cbre"
+        },
+        {
+            "__typename": "GraphVideo",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 750,
+                "width": 750
+            },
+            "display_url": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/173852598_464716064869058_131173316751934171_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=z7Oe79W-FvkAX9rKXDT&edm=APU89FAAAAAA&ccb=7-4&oh=ec6404c883db5786fa01fe9a484ba487&oe=6085BF22&_nc_sid=86f79a",
+            "edge_media_preview_like": {
+                "count": 71
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "What are the top 10 trends set to impact the #medicaloffice sector’s recovery in 2021? After COVID-19’s historic impact, CBRE forecasts resilience spurred by employment growth, capital flows and leasing demand. Learn more in the 2021 U.S. Medical Office Trends report via the link in our bio."
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 1
+            },
+            "gating_info": null,
+            "id": "2551925129547185005",
+            "is_video": true,
+            "media_preview": "ACoq3p5xHhTnLZxj261V+3R/7f6Ut799Po38qoFBtBC5PHQn/CrUU9+y/NnNOck2lbT/ACX+Zf8At0fq/wClKL1DyN3HJzjpWWevTaO2avKqsoHUYxkU5Qiu/wB5MJznfVaeRP8A2hH6N+Q/xo/tGP0b8h/jVGS2xyDx71VxVqMXsRKpUjo7Gre/fT6N/KoVztHUcD+9+HepNQOGT/gX9KzAx9aUVf7l+ch1Jcsn/XRF9IyX3NkqOmen059KrSTJn91kHnJA4/Loee4pDPuTyuRk8t1GO/v/APWqxBtyQBtIx9CPUDtn+tD01ZcbNcsbXerfZ9l6FNriQgoRz3JyOO1KLkgY8tTjvu6/pT70CMiTnDcEjsR0z/Ksk3ZHTB98GhNNCamnpr5s6fUIWcBhjC5zn3xVH7If78f/AH1/9at7GetJsX0H5VKk0XOmm7vqYX2U/wB+P/vqnmGRiGLx5HAO7+fFbWxfQflRsX0H5U+a5KglsY8kUsn7tmjGf4QeT/n0qP8AsuT/AGfz/wDrVubR1wM0tSpNbWNXTUtW395//9k=",
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "CNqQmJ4DXtt",
+            "tags": [
+                "medicaloffice"
+            ],
+            "taken_at_timestamp": 1618433283,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/173852598_464716064869058_131173316751934171_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=z7Oe79W-FvkAX9rKXDT&edm=APU89FAAAAAA&ccb=7-4&oh=2dc5b88fb5cc8f5d09661b02aebb5f59&oe=60857824&_nc_sid=86f79a"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/173852598_464716064869058_131173316751934171_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=z7Oe79W-FvkAX9rKXDT&edm=APU89FAAAAAA&ccb=7-4&oh=7a052e18a83d41c4b9a1b75130776369&oe=6085CDAA&_nc_sid=86f79a"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/173852598_464716064869058_131173316751934171_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=z7Oe79W-FvkAX9rKXDT&edm=APU89FAAAAAA&ccb=7-4&oh=c5486d7fdc8000103d40a75ade663fd9&oe=6085EF14&_nc_sid=86f79a"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/173852598_464716064869058_131173316751934171_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=z7Oe79W-FvkAX9rKXDT&edm=APU89FAAAAAA&ccb=7-4&oh=ef4374e965bd5b60617a0c471a00228b&oe=60854ECA&_nc_sid=86f79a"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/173852598_464716064869058_131173316751934171_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=z7Oe79W-FvkAX9rKXDT&edm=APU89FAAAAAA&ccb=7-4&oh=d0efa4c3028a2c97f2bc4b66203a180a&oe=60857385&_nc_sid=86f79a"
+                }
+            ],
+            "thumbnail_src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/173852598_464716064869058_131173316751934171_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=z7Oe79W-FvkAX9rKXDT&edm=APU89FAAAAAA&ccb=7-4&oh=d0efa4c3028a2c97f2bc4b66203a180a&oe=60857385&_nc_sid=86f79a",
+            "urls": [
+                "https://scontent-mia3-1.cdninstagram.com/v/t50.2886-16/173248236_2209302105870131_6002070728192001234_n.mp4?_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=9pe4f7UV96YAX99-YmP&edm=AABBvjUAAAAA&ccb=7-4&oe=60856042&oh=52c8efdbcee039abc4fa6a41a93f6462&_nc_sid=83d603"
+            ],
+            "username": "cbre",
+            "video_view_count": 1009
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 612,
+                "width": 612
+            },
+            "display_url": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/e35/172307167_791003704855005_260513563953809437_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=109&_nc_ohc=B8Hzx-IzQAgAX9FSIKT&edm=APU89FAAAAAA&ccb=7-4&oh=8fdb7f2f941dd184090db0e170c8551e&oe=60A915C6&_nc_sid=86f79a&ig_cache_key=MjU1MDk3NDAwMTQyMjY5NDI5NA%3D%3D.2-ccb7-4",
+            "edge_media_preview_like": {
+                "count": 188
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Making the case for improving the world, one #investment at a time. On #TheWeeklyTake, Invesco’s Scott Dennis, BentallGreenOak’s Sonny Kalsi and #CBRE Global Investors’ Chuck Leitner join Spencer Levy to explain the ABCs of #ESG capital. Listen to the episode via the link in our bio."
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 1
+            },
+            "gating_info": null,
+            "id": "2550974005675588999",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "CNm4VevjH2H",
+            "tags": [
+                "investment",
+                "ESG",
+                "CBRE",
+                "TheWeeklyTake"
+            ],
+            "taken_at_timestamp": 1618319820,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/e35/s150x150/172307167_791003704855005_260513563953809437_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=109&_nc_ohc=B8Hzx-IzQAgAX9FSIKT&edm=APU89FAAAAAA&ccb=7-4&oh=e40a082d8a49de305b56430658b7cb7b&oe=60AA0E88&_nc_sid=86f79a&ig_cache_key=MjU1MDk3NDAwMTQyMjY5NDI5NA%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/e35/s240x240/172307167_791003704855005_260513563953809437_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=109&_nc_ohc=B8Hzx-IzQAgAX9FSIKT&edm=APU89FAAAAAA&ccb=7-4&oh=81140d3342ca7e679f49a49aab37e93e&oe=60A821CE&_nc_sid=86f79a&ig_cache_key=MjU1MDk3NDAwMTQyMjY5NDI5NA%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/e35/s320x320/172307167_791003704855005_260513563953809437_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=109&_nc_ohc=B8Hzx-IzQAgAX9FSIKT&edm=APU89FAAAAAA&ccb=7-4&oh=f4e8353fc79b834d86d5b86bf93082f4&oe=60A88438&_nc_sid=86f79a&ig_cache_key=MjU1MDk3NDAwMTQyMjY5NDI5NA%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/e35/s480x480/172307167_791003704855005_260513563953809437_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=109&_nc_ohc=B8Hzx-IzQAgAX9FSIKT&edm=APU89FAAAAAA&ccb=7-4&oh=d1a0efe519f503c83e5574077c260ccb&oe=60A816AE&_nc_sid=86f79a&ig_cache_key=MjU1MDk3NDAwMTQyMjY5NDI5NA%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/e35/172307167_791003704855005_260513563953809437_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=109&_nc_ohc=B8Hzx-IzQAgAX9FSIKT&edm=APU89FAAAAAA&ccb=7-4&oh=8fdb7f2f941dd184090db0e170c8551e&oe=60A915C6&_nc_sid=86f79a&ig_cache_key=MjU1MDk3NDAwMTQyMjY5NDI5NA%3D%3D.2-ccb7-4"
+                }
+            ],
+            "thumbnail_src": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/e35/172307167_791003704855005_260513563953809437_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=109&_nc_ohc=B8Hzx-IzQAgAX9FSIKT&edm=APU89FAAAAAA&ccb=7-4&oh=8fdb7f2f941dd184090db0e170c8551e&oe=60A915C6&_nc_sid=86f79a&ig_cache_key=MjU1MDk3NDAwMTQyMjY5NDI5NA%3D%3D.2-ccb7-4",
+            "urls": [
+                "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/e35/172307167_791003704855005_260513563953809437_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=109&_nc_ohc=B8Hzx-IzQAgAX9FSIKT&edm=AABBvjUAAAAA&ccb=7-4&oh=2a76b65f2c0ffd0dc129e3ba5495c81e&oe=60A915C6&_nc_sid=83d603&ig_cache_key=MjU1MDk3NDAwMTQyMjY5NDI5NA%3D%3D.2-ccb7-4",
+                "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/172371101_1186741435113180_3039259862750324504_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=100&_nc_ohc=p5-iVrZC7JgAX8P0kPy&edm=AABBvjUAAAAA&ccb=7-4&oh=6f35fc5908a41de38c95d4f7a1b1551f&oe=60A9C607&_nc_sid=83d603&ig_cache_key=MjU1MDk3NDAwMTQ0NzkwNzE0NA%3D%3D.2-ccb7-4",
+                "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/170396566_490429515469877_9207352995634940527_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=105&_nc_ohc=tllHyDu8nUsAX-Y-Roc&edm=AABBvjUAAAAA&ccb=7-4&oh=708baa4782e865700abb94bd7e213ef6&oe=60A7415A&_nc_sid=83d603&ig_cache_key=MjU1MDk3NDAwMTQzOTM2NjY4Mw%3D%3D.2-ccb7-4",
+                "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/173092900_482775562853239_1270470143257261211_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=2e3fQqYSQUoAX_gj0wN&edm=AABBvjUAAAAA&ccb=7-4&oh=6a318a070791005364082602ce9910c9&oe=60A7C985&_nc_sid=83d603&ig_cache_key=MjU1MDk3NDAwMTQzMTA3OTcyMw%3D%3D.2-ccb7-4",
+                "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/171839663_284586596603329_604165690167170670_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=101&_nc_ohc=9k7GRxx9efAAX9w7kqc&edm=AABBvjUAAAAA&ccb=7-4&oh=7dbafe6873a8112048c52a9393c9836e&oe=60A9BF86&_nc_sid=83d603&ig_cache_key=MjU1MDk3NDAwMTQwNTgyODMwMA%3D%3D.2-ccb7-4"
+            ],
+            "username": "cbre"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/158816158_444219409966673_8357427309743218078_n.jpg?se=7&tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=105&_nc_ohc=p57rZMhHVKYAX_WTWa7&edm=APU89FAAAAAA&ccb=7-4&oh=e51961221b08430fe06fc226f0de29d8&oe=60A9CB86&_nc_sid=86f79a&ig_cache_key=MjUyNDk3OTg3NjUzODAwNjI4Ng%3D%3D.2-ccb7-4",
+            "edge_media_preview_like": {
+                "count": 267
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "“Take the lead, let your actions define who you are. Embrace the possibility of failure, only then can you learn and grow.” - Linda Johnson, Financial Analyst, Global Finance #IWD2021 #ChooseToChallenge #CBREWomen"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 2
+            },
+            "gating_info": null,
+            "id": "2524979876538006286",
+            "is_video": false,
+            "media_preview": "ACoq6aioZp47dd8hCj3/AKDqarRXVvenCtuK84OQfrzjNAFxm2jjk+mcVF5zDqh/Mf41XMahsFUGPVjn2pQoGAQnTA+Y9/8AHNAiwZW7IT68jj9anrOCqOgTP++f85/CtAUAZMyrLcsJRuCKuzjIGckn6nGM+2Kxp0NlMsyjau7IX+ePYjitK9uWW62ICRtAYD3JI/LNZd/uLBcHC5wT9Og9hUdTXodauyUBwAwYAg4H4U7y164H5CsjSL2OSNYPuug6eoHcf1HX8K2GAYYNWZkWAvROnTAFT1H5S+n6mpKAOElMsshlGSSxIYfXHH8qlMs7feGcd8c1nt3+tBoC7L1qxhuY2PB3gH/gXH8jXcV55D/rE/31/mK9DoAKKKKAP//Z",
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "CMKh9HeDrsO",
+            "tags": [
+                "CBREWomen",
+                "IWD2021",
+                "ChooseToChallenge"
+            ],
+            "taken_at_timestamp": 1615221078,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/158816158_444219409966673_8357427309743218078_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=105&_nc_ohc=p57rZMhHVKYAX_WTWa7&edm=APU89FAAAAAA&ccb=7-4&oh=0b9217cff49c444274729c5d8aa75148&oe=60A8FAFB&_nc_sid=86f79a&ig_cache_key=MjUyNDk3OTg3NjUzODAwNjI4Ng%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/158816158_444219409966673_8357427309743218078_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=105&_nc_ohc=p57rZMhHVKYAX_WTWa7&edm=APU89FAAAAAA&ccb=7-4&oh=9da2d64ad4b667d8e343485bf3564b06&oe=60A8693D&_nc_sid=86f79a&ig_cache_key=MjUyNDk3OTg3NjUzODAwNjI4Ng%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/158816158_444219409966673_8357427309743218078_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=105&_nc_ohc=p57rZMhHVKYAX_WTWa7&edm=APU89FAAAAAA&ccb=7-4&oh=3dbd519c385881882aa6aefff861dacf&oe=60A98243&_nc_sid=86f79a&ig_cache_key=MjUyNDk3OTg3NjUzODAwNjI4Ng%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/158816158_444219409966673_8357427309743218078_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=105&_nc_ohc=p57rZMhHVKYAX_WTWa7&edm=APU89FAAAAAA&ccb=7-4&oh=9cb57d428861318a5ddf09a66fcc0ca5&oe=60A76306&_nc_sid=86f79a&ig_cache_key=MjUyNDk3OTg3NjUzODAwNjI4Ng%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/158816158_444219409966673_8357427309743218078_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=105&_nc_ohc=p57rZMhHVKYAX_WTWa7&edm=APU89FAAAAAA&ccb=7-4&oh=22ac1b0e5f0223055506168f5e7bead5&oe=60A83080&_nc_sid=86f79a&ig_cache_key=MjUyNDk3OTg3NjUzODAwNjI4Ng%3D%3D.2-ccb7-4"
+                }
+            ],
+            "thumbnail_src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/158816158_444219409966673_8357427309743218078_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=105&_nc_ohc=p57rZMhHVKYAX_WTWa7&edm=APU89FAAAAAA&ccb=7-4&oh=22ac1b0e5f0223055506168f5e7bead5&oe=60A83080&_nc_sid=86f79a&ig_cache_key=MjUyNDk3OTg3NjUzODAwNjI4Ng%3D%3D.2-ccb7-4",
+            "urls": [
+                "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/158816158_444219409966673_8357427309743218078_n.jpg?se=7&tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=105&_nc_ohc=p57rZMhHVKYAX_WTWa7&edm=APU89FAAAAAA&ccb=7-4&oh=e51961221b08430fe06fc226f0de29d8&oe=60A9CB86&_nc_sid=86f79a&ig_cache_key=MjUyNDk3OTg3NjUzODAwNjI4Ng%3D%3D.2-ccb7-4"
+            ],
+            "username": "cbre"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/158126998_917968005672842_6817493440661809691_n.jpg?se=7&tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=ZQEUkfQOChYAX-EGFYs&edm=APU89FAAAAAA&ccb=7-4&oh=33360e9e2c6287e08a60fdfc116510ae&oe=60A9B5C2&_nc_sid=86f79a&ig_cache_key=MjUyNDk3OTU3MDU2MzU3NzI1Nw%3D%3D.2-ccb7-4",
+            "edge_media_preview_like": {
+                "count": 298
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "\"For me, choosing to challenge is about showing up, again and again. It about having the confidence to share your views and move boldly, the grit to weather setbacks and carry on, the passion to inspire both yourself and others – and truly finding the joy of contributing and making an impact. As filmmaker and musician Gina Carey says, “A strong woman looks a challenge dead in the eye and gives it a wink.” - Benji Baer, Chief Marketing Officer #IWD2021 #ChooseToChallenge #CBREWomen"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 1
+            },
+            "gating_info": null,
+            "id": "2524979570563577257",
+            "is_video": false,
+            "media_preview": "ACoqW+v54p3RGwoIwMD0HtVZdSuCcGQgeuB/hTdS/wCPl/qP5CqiAFgDnHtyfwoMG3d7miL+f/nsP++f0+7QL64IyZQP+Aj+e2q4G0cF8Z/uj/Oak3H1k/74H5/rQPX+v+HHtf3AUkSg47YH9VrqVOQPpXHTE7SSTk9iuAQDxiuxT7o+goLicpeL5t60Y/iIyfQbQT+OKs3FpH5eIkKsASD0II9ec81VuJ/KvXYY+9g/TAz9CKt3cpRSRu3Y6EcfXPf1/nUPc3ilZmP5rtySc/WlEjA5yfzqMdKWrON7skkHq27H1/rXbp90fQVwzSMwwa7lPuj6Cg0h1OFljaV2dQdrMSM+hJrXt5/NTZKDvVSBnuB3+o7/AJ1iN1P1p0RIcY45pNGqbTGbiOOtbVtpYuYxKknDdtvQ9x17GsQ9a6XQD+6cf7f9BTIaT3I/7CP/AD0H/fP/ANeugAwMelLRQNJLY//Z",
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "CMKh4qgj3Wp",
+            "tags": [
+                "CBREWomen",
+                "IWD2021",
+                "ChooseToChallenge"
+            ],
+            "taken_at_timestamp": 1615221042,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/158126998_917968005672842_6817493440661809691_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=ZQEUkfQOChYAX-EGFYs&edm=APU89FAAAAAA&ccb=7-4&oh=234552ff1754e7f0f5f517dab67869c2&oe=60A89A7F&_nc_sid=86f79a&ig_cache_key=MjUyNDk3OTU3MDU2MzU3NzI1Nw%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/158126998_917968005672842_6817493440661809691_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=ZQEUkfQOChYAX-EGFYs&edm=APU89FAAAAAA&ccb=7-4&oh=f7b0b15cc9f18ecb0a7894f9d0a2b68d&oe=60A7D8F9&_nc_sid=86f79a&ig_cache_key=MjUyNDk3OTU3MDU2MzU3NzI1Nw%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/158126998_917968005672842_6817493440661809691_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=ZQEUkfQOChYAX-EGFYs&edm=APU89FAAAAAA&ccb=7-4&oh=0b5bb4f280f17edbe2f2f24705aaa450&oe=60A78407&_nc_sid=86f79a&ig_cache_key=MjUyNDk3OTU3MDU2MzU3NzI1Nw%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/158126998_917968005672842_6817493440661809691_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=ZQEUkfQOChYAX-EGFYs&edm=APU89FAAAAAA&ccb=7-4&oh=761d117f33bcc768869ab70ef382d1af&oe=60A79102&_nc_sid=86f79a&ig_cache_key=MjUyNDk3OTU3MDU2MzU3NzI1Nw%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/158126998_917968005672842_6817493440661809691_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=ZQEUkfQOChYAX-EGFYs&edm=APU89FAAAAAA&ccb=7-4&oh=f321e9a16a0681b9c6e93953036a692a&oe=60A6F33C&_nc_sid=86f79a&ig_cache_key=MjUyNDk3OTU3MDU2MzU3NzI1Nw%3D%3D.2-ccb7-4"
+                }
+            ],
+            "thumbnail_src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/158126998_917968005672842_6817493440661809691_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=ZQEUkfQOChYAX-EGFYs&edm=APU89FAAAAAA&ccb=7-4&oh=f321e9a16a0681b9c6e93953036a692a&oe=60A6F33C&_nc_sid=86f79a&ig_cache_key=MjUyNDk3OTU3MDU2MzU3NzI1Nw%3D%3D.2-ccb7-4",
+            "urls": [
+                "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/158126998_917968005672842_6817493440661809691_n.jpg?se=7&tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=ZQEUkfQOChYAX-EGFYs&edm=APU89FAAAAAA&ccb=7-4&oh=33360e9e2c6287e08a60fdfc116510ae&oe=60A9B5C2&_nc_sid=86f79a&ig_cache_key=MjUyNDk3OTU3MDU2MzU3NzI1Nw%3D%3D.2-ccb7-4"
+            ],
+            "username": "cbre"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/158026624_136294348396663_5302542224745088366_n.jpg?se=7&tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=YenBQ5zzQ1kAX9h7Yrr&edm=APU89FAAAAAA&ccb=7-4&oh=0d3b6131ca39bfe0d96bf9dda0f38ab7&oe=60A71C7D&_nc_sid=86f79a&ig_cache_key=MjUyNDk3OTEzMDI5NTc1NTE0OA%3D%3D.2-ccb7-4",
+            "edge_media_preview_like": {
+                "count": 707
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "\"We are proud of the many women at CBRE who are fundamental to our company's success. They have shown resiliency and strength like never before, managing constant demands under unprecedented circumstances. We are committed to supporting our women by providing opportunities for connection, growth, mentorship and advocacy, as we help advance greater gender equality across the industry.\" - Lisa Konieczka, Executive Vice President, Advisory & Transaction Services and Chair of CBRE's Women's Network #IWD2021 #ChooseToChallenge #CBREWomen"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 4
+            },
+            "gating_info": null,
+            "id": "2524979130295755148",
+            "is_video": false,
+            "media_preview": "ACoq6FnYNjbkeoI/lTfNb+436f41BKq7ySEx3yxB7dv8+tIyKTwEI46uQeB7ZoEWPNfn5D+Y/wAf8+lOSQsSCNvocjBqsEycIqMBz94/TnrSt5MOHl2o3Xr/AJ/lQBdoqOORJRuQhh6g5qSgZSkYbyMr9ChJ6evf/IqLdjqVB9kPHv8AQj+dXTJhscYHvzTw6k4BGaBEUGMcY+oXbWEwW8mdpDgBtie5Hp+HJ+tb80nlozn+EE/kK5vTJslo+4O78+v60mWiKzn+xXW0HMTnafTPY/UHr7GuuriNQySF6lQc/wCfWujg1KMxqXPzbRnnvgZ/WhA9yzJcwIxVyAw68H/CpomSQB0wQehA/CpNo9KMYpkGXrMuy3KjrIQo/mf0GPxrMsIgsRf+IuBn25GKu65/q0/3j/KqdicwNn/nov8ASkyluQaqgh2erAn9axq1NTJadgeQMAA9uB09KpYppCbP/9k=",
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "CMKhyQejaGM",
+            "tags": [
+                "CBREWomen",
+                "IWD2021",
+                "ChooseToChallenge"
+            ],
+            "taken_at_timestamp": 1615220989,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/158026624_136294348396663_5302542224745088366_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=YenBQ5zzQ1kAX9h7Yrr&edm=APU89FAAAAAA&ccb=7-4&oh=73a0ca77633f85cec5b44fcd4067fa07&oe=60A808C4&_nc_sid=86f79a&ig_cache_key=MjUyNDk3OTEzMDI5NTc1NTE0OA%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/158026624_136294348396663_5302542224745088366_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=YenBQ5zzQ1kAX9h7Yrr&edm=APU89FAAAAAA&ccb=7-4&oh=5e6fba2397e701154835d7484fb37de6&oe=60A76946&_nc_sid=86f79a&ig_cache_key=MjUyNDk3OTEzMDI5NTc1NTE0OA%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/158026624_136294348396663_5302542224745088366_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=YenBQ5zzQ1kAX9h7Yrr&edm=APU89FAAAAAA&ccb=7-4&oh=d6d9838f0156af6e3f1402738e8f0686&oe=60A9017C&_nc_sid=86f79a&ig_cache_key=MjUyNDk3OTEzMDI5NTc1NTE0OA%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/158026624_136294348396663_5302542224745088366_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=YenBQ5zzQ1kAX9h7Yrr&edm=APU89FAAAAAA&ccb=7-4&oh=dc13da587fdb2433c4154b64d6a64274&oe=60A7D2BD&_nc_sid=86f79a&ig_cache_key=MjUyNDk3OTEzMDI5NTc1NTE0OA%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/158026624_136294348396663_5302542224745088366_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=YenBQ5zzQ1kAX9h7Yrr&edm=APU89FAAAAAA&ccb=7-4&oh=7bee492c5b6639118e8f85c52bc251a8&oe=60A9E207&_nc_sid=86f79a&ig_cache_key=MjUyNDk3OTEzMDI5NTc1NTE0OA%3D%3D.2-ccb7-4"
+                }
+            ],
+            "thumbnail_src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/158026624_136294348396663_5302542224745088366_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=YenBQ5zzQ1kAX9h7Yrr&edm=APU89FAAAAAA&ccb=7-4&oh=7bee492c5b6639118e8f85c52bc251a8&oe=60A9E207&_nc_sid=86f79a&ig_cache_key=MjUyNDk3OTEzMDI5NTc1NTE0OA%3D%3D.2-ccb7-4",
+            "urls": [
+                "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/158026624_136294348396663_5302542224745088366_n.jpg?se=7&tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=YenBQ5zzQ1kAX9h7Yrr&edm=APU89FAAAAAA&ccb=7-4&oh=0d3b6131ca39bfe0d96bf9dda0f38ab7&oe=60A71C7D&_nc_sid=86f79a&ig_cache_key=MjUyNDk3OTEzMDI5NTc1NTE0OA%3D%3D.2-ccb7-4"
+            ],
+            "username": "cbre"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/158607222_134930128540130_3261899012084001736_n.jpg?se=7&tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=5_YzZ0BknXQAX9EhVt9&edm=APU89FAAAAAA&ccb=7-4&oh=b3e9ae6719fb60c40d77294ad03849d6&oe=60A77F50&_nc_sid=86f79a&ig_cache_key=MjUyNDk3ODY0NzQxMzk2NjEyNg%3D%3D.2-ccb7-4",
+            "edge_media_preview_like": {
+                "count": 621
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We will maintain a gender equal mindset. #IWD2021 #ChooseToChallenge #CBREWomen"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 1
+            },
+            "gating_info": null,
+            "id": "2524978647413966126",
+            "is_video": false,
+            "media_preview": "ACoqyY42lbavJrbsLyWCQW8+SHwFOckenPcHp6io7GIJHu4JbnOOQPTP4VoW9sskombrHwvpk85/DP6+1Lmu7F8lo83U1aKKoakkkkW2PuRu7fL/AJxnvTILwOelLWdp0HkBgMlTggnuec4FaNA3oc1BJ5QCEZVfz65reQKUHlcKeeOOvX8a5yr1rOBGyOxUAZB54Geen/1jzxWEJa2fU6qkPduunQ1DG/r+p/z65/Dio51IjOTnp/P/AAxVPCspmEjbB1ChuMDHQknAPNOEkQgZmfepPfIOeu3k9a3vbU4vJ6FuzB2Z7E8VbrmTKzurvlEwcAE4PvjP/wCvitlEYKAMkADGSazlO3TU1ULLUwqZJIVGwfxYz6keg9qfU8Q+cew/pWUdHc7J62W39bFWZpFjCD5YvvE5wWJHAPp9OemSakFmY2EsmGRFLFeuOOPY89f8KjbkLnnn+hq5qnyxnHHzKOPTHT6Vs3ZpLQ4uXdvVozjcyO28ZXsgAH+H/wCrtWj5hXgvJkcdarWnRakYnJ+tF7626tFtNWin0Tu1ff5n/9k=",
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "CMKhrOwjkUu",
+            "tags": [
+                "CBREWomen",
+                "IWD2021",
+                "ChooseToChallenge"
+            ],
+            "taken_at_timestamp": 1615220932,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/158607222_134930128540130_3261899012084001736_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=5_YzZ0BknXQAX9EhVt9&edm=APU89FAAAAAA&ccb=7-4&oh=54d26109d3b6f2c8ff8a148c57aca2d9&oe=60A8EB71&_nc_sid=86f79a&ig_cache_key=MjUyNDk3ODY0NzQxMzk2NjEyNg%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/158607222_134930128540130_3261899012084001736_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=5_YzZ0BknXQAX9EhVt9&edm=APU89FAAAAAA&ccb=7-4&oh=b2faff49b158e641dfbd324f022c1383&oe=60AA2EB7&_nc_sid=86f79a&ig_cache_key=MjUyNDk3ODY0NzQxMzk2NjEyNg%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/158607222_134930128540130_3261899012084001736_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=5_YzZ0BknXQAX9EhVt9&edm=APU89FAAAAAA&ccb=7-4&oh=38f634b703ef87e951aa425e79bfd652&oe=60A9DB09&_nc_sid=86f79a&ig_cache_key=MjUyNDk3ODY0NzQxMzk2NjEyNg%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/158607222_134930128540130_3261899012084001736_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=5_YzZ0BknXQAX9EhVt9&edm=APU89FAAAAAA&ccb=7-4&oh=c68cf3d058c37100954eadaf045b6c8f&oe=60A90D50&_nc_sid=86f79a&ig_cache_key=MjUyNDk3ODY0NzQxMzk2NjEyNg%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/158607222_134930128540130_3261899012084001736_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=5_YzZ0BknXQAX9EhVt9&edm=APU89FAAAAAA&ccb=7-4&oh=42be01c49a7e35a87f144d155866e6b1&oe=60A9C5F6&_nc_sid=86f79a&ig_cache_key=MjUyNDk3ODY0NzQxMzk2NjEyNg%3D%3D.2-ccb7-4"
+                }
+            ],
+            "thumbnail_src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/158607222_134930128540130_3261899012084001736_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=5_YzZ0BknXQAX9EhVt9&edm=APU89FAAAAAA&ccb=7-4&oh=42be01c49a7e35a87f144d155866e6b1&oe=60A9C5F6&_nc_sid=86f79a&ig_cache_key=MjUyNDk3ODY0NzQxMzk2NjEyNg%3D%3D.2-ccb7-4",
+            "urls": [
+                "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/158607222_134930128540130_3261899012084001736_n.jpg?se=7&tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=5_YzZ0BknXQAX9EhVt9&edm=APU89FAAAAAA&ccb=7-4&oh=b3e9ae6719fb60c40d77294ad03849d6&oe=60A77F50&_nc_sid=86f79a&ig_cache_key=MjUyNDk3ODY0NzQxMzk2NjEyNg%3D%3D.2-ccb7-4"
+            ],
+            "username": "cbre"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/158723582_186507012937079_1122861936666262564_n.jpg?se=7&tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=Q4CBY1teARIAX8izhIe&edm=APU89FAAAAAA&ccb=7-4&oh=649ce29180cf8143a378efec57f34599&oe=60AA0E94&_nc_sid=86f79a&ig_cache_key=MjUyNDk3ODEwNDM0MzgxNTMxMA%3D%3D.2-ccb7-4",
+            "edge_media_preview_like": {
+                "count": 374
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We will help forge a gender equal world. #IWD2021 #ChooseToChallenge #CBREWomen"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 1
+            },
+            "gating_info": null,
+            "id": "2524978104343815310",
+            "is_video": false,
+            "media_preview": "ACoq6R22qWwTgZwOpqs10VbbtJ5AyOnI+lTy8I3JXg8jqOOtUjIpORLjHbB6dx+hOf6UAXYn8xQ2MZ7GpKzdwAA849cfd5+nr+NSxXCL96TdkenTrnp/njigC7RTI3Eg3L05/Q4p9ADHBKkDqQcVVEcwH/LMn6f/AFqtsCQcde1QmJux/U/4en60ARiOUnkIPXA5/X9aGjl7BOgyMcZ5zjjPpj6GpBGw7/qfX/D9fzqxQBHFnaNwAPoOlSUUUARyKWUqp2kggH0qGGJ1B52ZPAyWwMepx1PNWqKAItr/AN79KNj/AN79BUtFADFDDqc/hin0UUAf/9k=",
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "CMKhjU_DWSO",
+            "tags": [
+                "CBREWomen",
+                "IWD2021",
+                "ChooseToChallenge"
+            ],
+            "taken_at_timestamp": 1615220867,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/s150x150/158723582_186507012937079_1122861936666262564_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=Q4CBY1teARIAX8izhIe&edm=APU89FAAAAAA&ccb=7-4&oh=2e627c62a5f465e5a3fa68c305b81bd7&oe=60AA792D&_nc_sid=86f79a&ig_cache_key=MjUyNDk3ODEwNDM0MzgxNTMxMA%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/s240x240/158723582_186507012937079_1122861936666262564_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=Q4CBY1teARIAX8izhIe&edm=APU89FAAAAAA&ccb=7-4&oh=8e7c069bb577c99bb6d862266ad5e352&oe=60A80D2B&_nc_sid=86f79a&ig_cache_key=MjUyNDk3ODEwNDM0MzgxNTMxMA%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/s320x320/158723582_186507012937079_1122861936666262564_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=Q4CBY1teARIAX8izhIe&edm=APU89FAAAAAA&ccb=7-4&oh=194e772f852298e49056168e6ea95c99&oe=60A8D495&_nc_sid=86f79a&ig_cache_key=MjUyNDk3ODEwNDM0MzgxNTMxMA%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/s480x480/158723582_186507012937079_1122861936666262564_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=Q4CBY1teARIAX8izhIe&edm=APU89FAAAAAA&ccb=7-4&oh=d40ed56605b7fa0e63b650ccf951f4b5&oe=60A888D4&_nc_sid=86f79a&ig_cache_key=MjUyNDk3ODEwNDM0MzgxNTMxMA%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/158723582_186507012937079_1122861936666262564_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=Q4CBY1teARIAX8izhIe&edm=APU89FAAAAAA&ccb=7-4&oh=231481f563148a034a2754c2fe216e85&oe=60A92C6A&_nc_sid=86f79a&ig_cache_key=MjUyNDk3ODEwNDM0MzgxNTMxMA%3D%3D.2-ccb7-4"
+                }
+            ],
+            "thumbnail_src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/158723582_186507012937079_1122861936666262564_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=Q4CBY1teARIAX8izhIe&edm=APU89FAAAAAA&ccb=7-4&oh=231481f563148a034a2754c2fe216e85&oe=60A92C6A&_nc_sid=86f79a&ig_cache_key=MjUyNDk3ODEwNDM0MzgxNTMxMA%3D%3D.2-ccb7-4",
+            "urls": [
+                "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/158723582_186507012937079_1122861936666262564_n.jpg?se=7&tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=Q4CBY1teARIAX8izhIe&edm=APU89FAAAAAA&ccb=7-4&oh=649ce29180cf8143a378efec57f34599&oe=60AA0E94&_nc_sid=86f79a&ig_cache_key=MjUyNDk3ODEwNDM0MzgxNTMxMA%3D%3D.2-ccb7-4"
+            ],
+            "username": "cbre"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/157768739_347558803184951_5327826674208649229_n.jpg?se=7&tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=Tu3V55mjyDMAX9GXV5S&edm=APU89FAAAAAA&ccb=7-4&oh=12b1cc9927003be4472b905580acae97&oe=60A91EA6&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NzE3OTE4OTQzNDEyNQ%3D%3D.2-ccb7-4",
+            "edge_media_preview_like": {
+                "count": 205
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We celebrate the many accomplishments of CBRE women on International Women's Day and every day. #IWD2021 #ChooseToChallenge #CBREWomen"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 5
+            },
+            "gating_info": null,
+            "id": "2524977179189434125",
+            "is_video": false,
+            "media_preview": "ACoq3LmR1wsfBbPzHoMf1PaqtncyFzFJknseOMev19a0ZACOagigUOZOrH9BWb3WpqmuVprX9S1WRrQ3QgDg7x/I9auzTmNgoAOcdTycnGF9SOp9sfUR39sZ4/lGXX7vOPr7dK0M15nHMCpwacDUlwpU4PBGQRUYqiWrOx3TjimpWNYO5D7ydiHO4kn8PpjmrVq4lLEHIP1+vQ+1Zdb9i/TX0Lflv6/+PGn7vKQs5+7knnPH41S8+E8Ak7c5wp6f/r5qtc3cDxMqNksOBg+o6+nSrvfYiV4rVWMe5czsX6EnOP6VWAPpU9OpnMpvrqWIzLFKyJ8w5V13cYPQ+3sccdCOaWKYxOUUlQ3Geh9Mj396muABO2OOP/iTSnmND3Gf51nfS53Rjuk7f8ApG4ljffksV4Oe49+P1qSaPeBOgCo4HHQ55BOOn496muu/0qO05t3B7Hj24ovbRdHYma5o3fWN/SxUpaXFLitDzz//2Q==",
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "CMKhV3XjdcN",
+            "tags": [
+                "CBREWomen",
+                "IWD2021",
+                "ChooseToChallenge"
+            ],
+            "taken_at_timestamp": 1615220757,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/s150x150/157768739_347558803184951_5327826674208649229_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=Tu3V55mjyDMAX9GXV5S&edm=APU89FAAAAAA&ccb=7-4&oh=1c6c9eb1b405e35ee9f8554e81320c55&oe=60A7345B&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NzE3OTE4OTQzNDEyNQ%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/s240x240/157768739_347558803184951_5327826674208649229_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=Tu3V55mjyDMAX9GXV5S&edm=APU89FAAAAAA&ccb=7-4&oh=26ec67401187434f81bd487794c49198&oe=60AA535D&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NzE3OTE4OTQzNDEyNQ%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/s320x320/157768739_347558803184951_5327826674208649229_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=Tu3V55mjyDMAX9GXV5S&edm=APU89FAAAAAA&ccb=7-4&oh=b8be47eddc189c5a2c2999e6b1e0a03f&oe=60A87563&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NzE3OTE4OTQzNDEyNQ%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/s480x480/157768739_347558803184951_5327826674208649229_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=Tu3V55mjyDMAX9GXV5S&edm=APU89FAAAAAA&ccb=7-4&oh=b26f7c151eafd0c372d6d1d24ec75955&oe=60A81266&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NzE3OTE4OTQzNDEyNQ%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/157768739_347558803184951_5327826674208649229_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=Tu3V55mjyDMAX9GXV5S&edm=APU89FAAAAAA&ccb=7-4&oh=e418b4356108432dd6432b1af1cced0a&oe=60A9E560&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NzE3OTE4OTQzNDEyNQ%3D%3D.2-ccb7-4"
+                }
+            ],
+            "thumbnail_src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/157768739_347558803184951_5327826674208649229_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=Tu3V55mjyDMAX9GXV5S&edm=APU89FAAAAAA&ccb=7-4&oh=e418b4356108432dd6432b1af1cced0a&oe=60A9E560&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NzE3OTE4OTQzNDEyNQ%3D%3D.2-ccb7-4",
+            "urls": [
+                "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/157768739_347558803184951_5327826674208649229_n.jpg?se=7&tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=Tu3V55mjyDMAX9GXV5S&edm=APU89FAAAAAA&ccb=7-4&oh=12b1cc9927003be4472b905580acae97&oe=60A91EA6&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NzE3OTE4OTQzNDEyNQ%3D%3D.2-ccb7-4"
+            ],
+            "username": "cbre"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/158412156_2605365953089212_1116061653279781894_n.jpg?se=7&tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=100&_nc_ohc=cC2griZ-wd0AX9dthO-&edm=APU89FAAAAAA&ccb=7-4&oh=100d86c2bd1f476954667fcc38d96e66&oe=60AA264A&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NjcxMDU2ODE1NjQxMg%3D%3D.2-ccb7-4",
+            "edge_media_preview_like": {
+                "count": 238
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "“I choose to challenge myself to dream big - whether it’s helping other women to break the glass ceiling, reimagining a digitally enabled future for our industry, or jumping in to solve previously unsolved problems. Now, more than ever, it's important for women to be advocates for women. There are simple things we can do to support each other that will go a long way.” - Chandra Dhandapani, Chief Administrative Officer #IWD2021 #ChooseToChallenge #CBREWomen"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2524976710568156412",
+            "is_video": false,
+            "media_preview": "ACoqL6+ninZEbCgjAwPQe1Vv7Suf75/Jf8KTUuLl/qP/AEEVBFKoAAYjnkAD9KDB3u9y4b+fGRKD7bQD9Pu4/Wg30/aYH/gP/wBjUKsCAFL4zj7oxS5YHq/HGdnagd3/AF/w5K9/OBkSg+20Z/8AQa6hQCAa4+UnaQS34gAdf89K7Beg+lBcepy8CpfTvPIMKThVJ9sfiap6jbLDIDHwp7ehH9K2lCxyyRRgLht2MeoHT6HtWXqBDhV4D85x6e/v7VHU205blNGbAwT68VICSOWI+pNRr8vTtT/Nb1/QVZxivkjlt2O3NdsvQfSuHaQsMH+QruF6D6UGsOpydvK00zTS8Bh2Bx2HGMntUN6hd/3YJVR19+9VI2Kk4OPpSNyaLa3NLu1tAJZOD1HY1tW2lfaYllV8BhnG3p2I6+tYZrrNGP8Aoq/Vv5mmTyplX+wz/wA9B/3z/wDXreBxx6UmajJ5pDSS2P/Z",
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "CMKhPC7jJz8",
+            "tags": [
+                "CBREWomen",
+                "IWD2021",
+                "ChooseToChallenge"
+            ],
+            "taken_at_timestamp": 1615220701,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/158412156_2605365953089212_1116061653279781894_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=100&_nc_ohc=cC2griZ-wd0AX9dthO-&edm=APU89FAAAAAA&ccb=7-4&oh=b10547839b35106e3b7c7524c6d21b45&oe=60A8B5E6&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NjcxMDU2ODE1NjQxMg%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/158412156_2605365953089212_1116061653279781894_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=100&_nc_ohc=cC2griZ-wd0AX9dthO-&edm=APU89FAAAAAA&ccb=7-4&oh=6cf01d8fabd02697db8d069ac9014c28&oe=60A7C0AE&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NjcxMDU2ODE1NjQxMg%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/158412156_2605365953089212_1116061653279781894_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=100&_nc_ohc=cC2griZ-wd0AX9dthO-&edm=APU89FAAAAAA&ccb=7-4&oh=64dccca29c2ca9e99e0985a474b6e5d2&oe=60A78033&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NjcxMDU2ODE1NjQxMg%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/158412156_2605365953089212_1116061653279781894_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=100&_nc_ohc=cC2griZ-wd0AX9dthO-&edm=APU89FAAAAAA&ccb=7-4&oh=8d58a48f0962b321557b7b64cf425481&oe=60A714F1&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NjcxMDU2ODE1NjQxMg%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/158412156_2605365953089212_1116061653279781894_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=100&_nc_ohc=cC2griZ-wd0AX9dthO-&edm=APU89FAAAAAA&ccb=7-4&oh=84b8c9ccb59ea317fc45a7e21386fd1c&oe=60A94691&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NjcxMDU2ODE1NjQxMg%3D%3D.2-ccb7-4"
+                }
+            ],
+            "thumbnail_src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/158412156_2605365953089212_1116061653279781894_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=100&_nc_ohc=cC2griZ-wd0AX9dthO-&edm=APU89FAAAAAA&ccb=7-4&oh=84b8c9ccb59ea317fc45a7e21386fd1c&oe=60A94691&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NjcxMDU2ODE1NjQxMg%3D%3D.2-ccb7-4",
+            "urls": [
+                "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/158412156_2605365953089212_1116061653279781894_n.jpg?se=7&tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=100&_nc_ohc=cC2griZ-wd0AX9dthO-&edm=APU89FAAAAAA&ccb=7-4&oh=100d86c2bd1f476954667fcc38d96e66&oe=60AA264A&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NjcxMDU2ODE1NjQxMg%3D%3D.2-ccb7-4"
+            ],
+            "username": "cbre"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/158429632_120317520044869_789341884301897388_n.jpg?se=7&tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=101&_nc_ohc=CGGHcrsHlSEAX_VFLps&edm=APU89FAAAAAA&ccb=7-4&oh=2bec6dbb948ca648df418a0ac7654ef9&oe=60A74AB0&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NjIyMDAyNzU2MzkzMw%3D%3D.2-ccb7-4",
+            "edge_media_preview_like": {
+                "count": 231
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "“You always hear that inaction is the riskiest response in difficult times. This last year has been a challenging one for many, but for me, with this uncertainty came opportunity, the opportunity to slow down and focus on my priorities -expand my business while also mentoring female talent in our business. I was able to put my plan in to action and it has been tremendously rewarding.” - Sonya Schmidt, Vice President, Advisory & Transaction Services #IWD2021 #ChooseToChallenge #CBREWomen"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2524976220027563933",
+            "is_video": false,
+            "media_preview": "ACoq6FmZei7h7Ef1x/k00yOCPkPPuP8AGoHVd5J2ZJHVjnkY6Uwqp6CPAzgbj35z09MdKBF5CTnI24+nNOqKJ0wFUr06A5/Kia4jgGZWCA9Mnr9PWgZLTTSRSpMu6MhlPcHNKaAKshAY/MAf9wnt696j3jP3gOw/dn/P8qtNIQcfL+Jx2qRWDDscdcetAiFR5Sl5MYAzwuMADmucELamzTu20A4UdcD0/wA9Tk10V8cQSe6kfmMVzmmupQjALrnnvgjt/WpZcUNsZDY3QjzlJPlPpz0P1B/QmusNcRfsNyhQFI5IHr7120bh0V/7wB/MZpoT3IXuoUYqxAYdeD/hT4biKXIjOcdeCP5gVKAD1oIx04pkmRq1/HEjQ5JcjkDtn1/z74rnbCRY3LOcDbjj1qzqo/ft9apKKtRUml3Vwvy6+Y66KM25M4PXPWtaHWxGipsztUD8hisZxUQFKUeV2Q07q7P/2Q==",
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "CMKhH6FDS-d",
+            "tags": [
+                "CBREWomen",
+                "IWD2021",
+                "ChooseToChallenge"
+            ],
+            "taken_at_timestamp": 1615220643,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/158429632_120317520044869_789341884301897388_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=101&_nc_ohc=CGGHcrsHlSEAX_VFLps&edm=APU89FAAAAAA&ccb=7-4&oh=3740414825d39a3fb9e1c56a39288980&oe=60A777AE&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NjIyMDAyNzU2MzkzMw%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/158429632_120317520044869_789341884301897388_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=101&_nc_ohc=CGGHcrsHlSEAX_VFLps&edm=APU89FAAAAAA&ccb=7-4&oh=298f603a4203b61fe2063f0cb88ef614&oe=60A7F428&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NjIyMDAyNzU2MzkzMw%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/158429632_120317520044869_789341884301897388_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=101&_nc_ohc=CGGHcrsHlSEAX_VFLps&edm=APU89FAAAAAA&ccb=7-4&oh=e3cdaa642a6813181ba9da3689179282&oe=60A933DE&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NjIyMDAyNzU2MzkzMw%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/158429632_120317520044869_789341884301897388_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=101&_nc_ohc=CGGHcrsHlSEAX_VFLps&edm=APU89FAAAAAA&ccb=7-4&oh=32dea7b53a659446ce04790272e6e86b&oe=60A74F08&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NjIyMDAyNzU2MzkzMw%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/158429632_120317520044869_789341884301897388_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=101&_nc_ohc=CGGHcrsHlSEAX_VFLps&edm=APU89FAAAAAA&ccb=7-4&oh=f33fadb96177ddc336f0cc093d5c5ead&oe=60AA6B4B&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NjIyMDAyNzU2MzkzMw%3D%3D.2-ccb7-4"
+                }
+            ],
+            "thumbnail_src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/158429632_120317520044869_789341884301897388_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=101&_nc_ohc=CGGHcrsHlSEAX_VFLps&edm=APU89FAAAAAA&ccb=7-4&oh=f33fadb96177ddc336f0cc093d5c5ead&oe=60AA6B4B&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NjIyMDAyNzU2MzkzMw%3D%3D.2-ccb7-4",
+            "urls": [
+                "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/158429632_120317520044869_789341884301897388_n.jpg?se=7&tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=101&_nc_ohc=CGGHcrsHlSEAX_VFLps&edm=APU89FAAAAAA&ccb=7-4&oh=2bec6dbb948ca648df418a0ac7654ef9&oe=60A74AB0&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NjIyMDAyNzU2MzkzMw%3D%3D.2-ccb7-4"
+            ],
+            "username": "cbre"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/157615228_4037716492934545_8347518547447906514_n.jpg?se=7&tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=101&_nc_ohc=wmTmFRvjnu8AX8Shj2u&edm=APU89FAAAAAA&ccb=7-4&oh=9779b87f8d92b2cc1682015a206899d3&oe=60AA57BD&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NTEzMzQ3NjMxMDY4Mg%3D%3D.2-ccb7-4",
+            "edge_media_preview_like": {
+                "count": 340
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "“I choose to challenge means setting a new standard for leaders and raising the bar for gender inequality. The foundation of future prosperity is built on equality for all and making a difference together! Actions prove who someone is and words just prove who they want to be.” - Edith Chamblin, Senior Business Analyst, Global Workplace Solutions #IWD2021 #ChooseToChallenge #CBREWomen"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 3
+            },
+            "gating_info": null,
+            "id": "2524975133476310682",
+            "is_video": false,
+            "media_preview": "ACoqfd3syTuiybFXGBgHsD6E1Ab+ftMD/wABH/xNOuyRcSYLDlfujP8AD3quGI7v1P8ACPX1oMWTG/nH/LYH6L/9jUX9p3P98/kv+FV3mbJAJxnuADURJY5PJNArvpcuf2nc/wB8/kv+FdaoyAa4Uiu7XoPoKC431uczd5NxJgE8jo23+H9faq+D0Ibrj7478gf/AF/XrT79Q1xJnPUdP90VRKc8A4+lBDBlKn5utKiFzheoFMqxA4GVIzkUpbF07cwySFoxk4OfSu2XoPoK46crtxgZ9fp2rsV6D6ClHY1lpJ+i/U5+8to2mZjLsJIyu0nHA7g1X+yx/wDPf/xxv8a6gKDzijaPSqM+X+v6ZxV1GkGAj+YTz90gAe+TnPtj3qmG5zWhqv8Ax9P/AMB/9BFZ+KCkktiaduQyngr09Oa6KPXIto3Ag4GR745rlqcBRsPd3P/Z",
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "CMKg4GJjM6a",
+            "tags": [
+                "CBREWomen",
+                "IWD2021",
+                "ChooseToChallenge"
+            ],
+            "taken_at_timestamp": 1615220513,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/157615228_4037716492934545_8347518547447906514_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=101&_nc_ohc=wmTmFRvjnu8AX8Shj2u&edm=APU89FAAAAAA&ccb=7-4&oh=c62b19ae9112dc0d954a9b490cb32d1e&oe=60A87C11&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NTEzMzQ3NjMxMDY4Mg%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/157615228_4037716492934545_8347518547447906514_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=101&_nc_ohc=wmTmFRvjnu8AX8Shj2u&edm=APU89FAAAAAA&ccb=7-4&oh=cdb561cf585a8f69db858606a6e15a45&oe=60A9D9D9&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NTEzMzQ3NjMxMDY4Mg%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/157615228_4037716492934545_8347518547447906514_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=101&_nc_ohc=wmTmFRvjnu8AX8Shj2u&edm=APU89FAAAAAA&ccb=7-4&oh=deb4b191f36694654751b40e883e8c0a&oe=60A86208&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NTEzMzQ3NjMxMDY4Mg%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/157615228_4037716492934545_8347518547447906514_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=101&_nc_ohc=wmTmFRvjnu8AX8Shj2u&edm=APU89FAAAAAA&ccb=7-4&oh=e45ab412cdf60ce9a4b896b3578eec8f&oe=60A75646&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NTEzMzQ3NjMxMDY4Mg%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/157615228_4037716492934545_8347518547447906514_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=101&_nc_ohc=wmTmFRvjnu8AX8Shj2u&edm=APU89FAAAAAA&ccb=7-4&oh=30d967b5aaf52699f13783eb606e5543&oe=60A84FA6&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NTEzMzQ3NjMxMDY4Mg%3D%3D.2-ccb7-4"
+                }
+            ],
+            "thumbnail_src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/157615228_4037716492934545_8347518547447906514_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=101&_nc_ohc=wmTmFRvjnu8AX8Shj2u&edm=APU89FAAAAAA&ccb=7-4&oh=30d967b5aaf52699f13783eb606e5543&oe=60A84FA6&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NTEzMzQ3NjMxMDY4Mg%3D%3D.2-ccb7-4",
+            "urls": [
+                "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/157615228_4037716492934545_8347518547447906514_n.jpg?se=7&tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=101&_nc_ohc=wmTmFRvjnu8AX8Shj2u&edm=APU89FAAAAAA&ccb=7-4&oh=9779b87f8d92b2cc1682015a206899d3&oe=60AA57BD&_nc_sid=86f79a&ig_cache_key=MjUyNDk3NTEzMzQ3NjMxMDY4Mg%3D%3D.2-ccb7-4"
+            ],
+            "username": "cbre"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 750,
+                "width": 750
+            },
+            "display_url": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/e35/147982792_112485614176594_3770768926530255029_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=110&_nc_ohc=y2QpoEDsqE8AX-CJ8Bu&edm=APU89FAAAAAA&ccb=7-4&oh=1ab228fb55b2fbada29d3baf7b511f99&oe=60A83D2F&_nc_sid=86f79a&ig_cache_key=MjUwNjM1OTA2ODY3ODc4MzQwOQ%3D%3D.2-ccb7-4",
+            "edge_media_preview_like": {
+                "count": 467
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Happy Lunar/Chinese New Year from all of us at CBRE! Wishing you happiness & prosperity in the Year of the Ox. \nXin Nian Kuai Le! Gong Xi Fa Cai! #HappyLunarNewYear #LNY #LNYatCBRE #YearoftheOx #CelebrateLNY"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 3
+            },
+            "gating_info": null,
+            "id": "2506359068678783409",
+            "is_video": false,
+            "media_preview": "ACoq1CaAKSmBzuYHoCMYHtUmopLZ4XI9cin4qu0gJyAePc/yFPeX5cr7dR70h2ehJTqQ9aSmSFRghXOcDdyOevGOlSkUxkV/vDOOntSGhCuDjjn2449aSQAjaMZ9M47gmjy+wYgULEqHcBz6nk0D07kppKBT6ZIUmKWkNAiAzqDjkgdSBkD8amGCMjpWDmtm1/1S/T+ppJm04cquialoopmJ/9k=",
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "CLIYEswLYGx",
+            "tags": [
+                "LNYatCBRE",
+                "YearoftheOx",
+                "CelebrateLNY",
+                "LNY",
+                "HappyLunarNewYear"
+            ],
+            "taken_at_timestamp": 1613001310,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/e35/s150x150/147982792_112485614176594_3770768926530255029_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=110&_nc_ohc=y2QpoEDsqE8AX-CJ8Bu&edm=APU89FAAAAAA&ccb=7-4&oh=391063b9e88fd74e3161d66080ab3068&oe=60A89852&_nc_sid=86f79a&ig_cache_key=MjUwNjM1OTA2ODY3ODc4MzQwOQ%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/e35/s240x240/147982792_112485614176594_3770768926530255029_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=110&_nc_ohc=y2QpoEDsqE8AX-CJ8Bu&edm=APU89FAAAAAA&ccb=7-4&oh=19d6783ca1f8ded5a3c4c7fb81bee91e&oe=60A88BD8&_nc_sid=86f79a&ig_cache_key=MjUwNjM1OTA2ODY3ODc4MzQwOQ%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/e35/s320x320/147982792_112485614176594_3770768926530255029_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=110&_nc_ohc=y2QpoEDsqE8AX-CJ8Bu&edm=APU89FAAAAAA&ccb=7-4&oh=f6dd424238b9810073cab47fd3b6732f&oe=60A9B62A&_nc_sid=86f79a&ig_cache_key=MjUwNjM1OTA2ODY3ODc4MzQwOQ%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/e35/s480x480/147982792_112485614176594_3770768926530255029_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=110&_nc_ohc=y2QpoEDsqE8AX-CJ8Bu&edm=APU89FAAAAAA&ccb=7-4&oh=1ab9ad6333f1610c587804f8eefe5a2d&oe=60A72D6F&_nc_sid=86f79a&ig_cache_key=MjUwNjM1OTA2ODY3ODc4MzQwOQ%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/147982792_112485614176594_3770768926530255029_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=110&_nc_ohc=y2QpoEDsqE8AX-CJ8Bu&edm=APU89FAAAAAA&ccb=7-4&oh=cbf67750a2a315c779a85949fabef7d0&oe=60A75C55&_nc_sid=86f79a&ig_cache_key=MjUwNjM1OTA2ODY3ODc4MzQwOQ%3D%3D.2-ccb7-4"
+                }
+            ],
+            "thumbnail_src": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/147982792_112485614176594_3770768926530255029_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=110&_nc_ohc=y2QpoEDsqE8AX-CJ8Bu&edm=APU89FAAAAAA&ccb=7-4&oh=cbf67750a2a315c779a85949fabef7d0&oe=60A75C55&_nc_sid=86f79a&ig_cache_key=MjUwNjM1OTA2ODY3ODc4MzQwOQ%3D%3D.2-ccb7-4",
+            "urls": [
+                "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/e35/147982792_112485614176594_3770768926530255029_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=110&_nc_ohc=y2QpoEDsqE8AX-CJ8Bu&edm=APU89FAAAAAA&ccb=7-4&oh=1ab228fb55b2fbada29d3baf7b511f99&oe=60A83D2F&_nc_sid=86f79a&ig_cache_key=MjUwNjM1OTA2ODY3ODc4MzQwOQ%3D%3D.2-ccb7-4"
+            ],
+            "username": "cbre"
+        },
+        {
+            "__typename": "GraphVideo",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/147061471_244086383919463_1957894744764459744_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=WtgRJkDikZoAX-dDlbW&edm=APU89FAAAAAA&ccb=7-4&oh=d7d203bbe64ef1daf619a6bc1ae786aa&oe=608590E2&_nc_sid=86f79a",
+            "edge_media_preview_like": {
+                "count": 556
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "On #TheWeeklyTake, #CBRE’s Matt James shares what it means to be the first Black Bachelor and how the commercial real estate industry can improve diversity, equity and inclusion. Tune in to the latest episode through the link in our bio. #TheBachelor @bachelorabc"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 30
+            },
+            "gating_info": null,
+            "id": "2501761806116090618",
+            "is_video": true,
+            "media_preview": null,
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "CK4CxuWMHL6",
+            "tags": [
+                "TheBachelor",
+                "CBRE",
+                "TheWeeklyTake"
+            ],
+            "taken_at_timestamp": 1612453286,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/s150x150/147061471_244086383919463_1957894744764459744_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=WtgRJkDikZoAX-dDlbW&edm=APU89FAAAAAA&ccb=7-4&oh=f4f5201c3270ba7850a700c864af36da&oe=60855A56&_nc_sid=86f79a"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/s240x240/147061471_244086383919463_1957894744764459744_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=WtgRJkDikZoAX-dDlbW&edm=APU89FAAAAAA&ccb=7-4&oh=33cd062759e5ef142f8686ee0a139572&oe=6085A014&_nc_sid=86f79a"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/s320x320/147061471_244086383919463_1957894744764459744_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=WtgRJkDikZoAX-dDlbW&edm=APU89FAAAAAA&ccb=7-4&oh=4c1f7b587d39ba75219061903535b75a&oe=6085E1AE&_nc_sid=86f79a"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/s480x480/147061471_244086383919463_1957894744764459744_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=WtgRJkDikZoAX-dDlbW&edm=APU89FAAAAAA&ccb=7-4&oh=dae43e6ad11a6fd57d1da2ce85941c04&oe=6085996B&_nc_sid=86f79a"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/147061471_244086383919463_1957894744764459744_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=WtgRJkDikZoAX-dDlbW&edm=APU89FAAAAAA&ccb=7-4&oh=34047138c3838401998c7bb9338770fd&oe=60856FE9&_nc_sid=86f79a"
+                }
+            ],
+            "thumbnail_src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/147061471_244086383919463_1957894744764459744_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=WtgRJkDikZoAX-dDlbW&edm=APU89FAAAAAA&ccb=7-4&oh=34047138c3838401998c7bb9338770fd&oe=60856FE9&_nc_sid=86f79a",
+            "urls": [
+                "https://instagram.feoh4-3.fna.fbcdn.net/v/t50.2886-16/145798577_240769970973667_1777693279804079496_n.mp4?_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=tQhb80SCS-AAX8LVF5U&edm=AABBvjUAAAAA&ccb=7-4&oe=6085AA05&oh=3d8dad863b7b619865869a4ede1e85d9&_nc_sid=83d603"
+            ],
+            "username": "cbre",
+            "video_view_count": 37123
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 640,
+                "width": 640
+            },
+            "display_url": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/139458539_686462512020098_5193927877990252544_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=ucyLG3bJsPkAX9UHMhj&edm=APU89FAAAAAA&ccb=7-4&oh=880aca5e16f19c6799c964b0b1e9fcc5&oe=60A70AAC&_nc_sid=86f79a&ig_cache_key=MjQ4OTM5MTEyMDQ1MTIzODUxOQ%3D%3D.2-ccb7-4",
+            "edge_media_preview_like": {
+                "count": 1186
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Today, we celebrate an exceptional leader, Martin Luther King Jr. #MLKDay"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 14
+            },
+            "gating_info": null,
+            "id": "2489391120451238519",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "CKMGAjhgfp3",
+            "tags": [
+                "MLKDay"
+            ],
+            "taken_at_timestamp": 1610978572,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/139458539_686462512020098_5193927877990252544_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=ucyLG3bJsPkAX9UHMhj&edm=APU89FAAAAAA&ccb=7-4&oh=6c04c2142f14349fd39f72602c116bcd&oe=60AA6955&_nc_sid=86f79a&ig_cache_key=MjQ4OTM5MTEyMDQ1MTIzODUxOQ%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/139458539_686462512020098_5193927877990252544_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=ucyLG3bJsPkAX9UHMhj&edm=APU89FAAAAAA&ccb=7-4&oh=bb19dc468587716be228a21818a19064&oe=60A8D293&_nc_sid=86f79a&ig_cache_key=MjQ4OTM5MTEyMDQ1MTIzODUxOQ%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/139458539_686462512020098_5193927877990252544_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=ucyLG3bJsPkAX9UHMhj&edm=APU89FAAAAAA&ccb=7-4&oh=6038fdc221d6ba5032e9aa23befe85ad&oe=60A7966D&_nc_sid=86f79a&ig_cache_key=MjQ4OTM5MTEyMDQ1MTIzODUxOQ%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/139458539_686462512020098_5193927877990252544_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=ucyLG3bJsPkAX9UHMhj&edm=APU89FAAAAAA&ccb=7-4&oh=164959f3f8360cd3dfe3dd5bc0de6e3f&oe=60A77EEC&_nc_sid=86f79a&ig_cache_key=MjQ4OTM5MTEyMDQ1MTIzODUxOQ%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/139458539_686462512020098_5193927877990252544_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=ucyLG3bJsPkAX9UHMhj&edm=APU89FAAAAAA&ccb=7-4&oh=880aca5e16f19c6799c964b0b1e9fcc5&oe=60A70AAC&_nc_sid=86f79a&ig_cache_key=MjQ4OTM5MTEyMDQ1MTIzODUxOQ%3D%3D.2-ccb7-4"
+                }
+            ],
+            "thumbnail_src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/139458539_686462512020098_5193927877990252544_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=ucyLG3bJsPkAX9UHMhj&edm=APU89FAAAAAA&ccb=7-4&oh=880aca5e16f19c6799c964b0b1e9fcc5&oe=60A70AAC&_nc_sid=86f79a&ig_cache_key=MjQ4OTM5MTEyMDQ1MTIzODUxOQ%3D%3D.2-ccb7-4",
+            "urls": [
+                "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/139458539_686462512020098_5193927877990252544_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=ucyLG3bJsPkAX9UHMhj&edm=APU89FAAAAAA&ccb=7-4&oh=880aca5e16f19c6799c964b0b1e9fcc5&oe=60A70AAC&_nc_sid=86f79a&ig_cache_key=MjQ4OTM5MTEyMDQ1MTIzODUxOQ%3D%3D.2-ccb7-4"
+            ],
+            "username": "cbre"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/116791246_336077564239670_5765432923822227855_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=4_MH7xZtx0gAX8VauFU&edm=APU89FAAAAAA&ccb=7-4&oh=66b2468b44702e754d78a91940a45ec0&oe=60A98ACE&_nc_sid=86f79a&ig_cache_key=MjM2OTIzNjk4NTEwNzQ1NzI5NQ%3D%3D.2-ccb7-4",
+            "edge_media_preview_like": {
+                "count": 408
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "#Repost @bizroundtable \n・・・\nBob Sulentic, President and CEO of @cbre, discusses his company's response to COVID-19, support of stakeholders, and the one year anniversary of the Statement on the Purpose of a Corporation:\n\n\"I’m particularly proud of the way that our company rallied in support of their colleagues who are facing financial distress as a result of Covid-19. As of late July, we’ve awarded nearly 6,000 grants to CBRE people worldwide who are facing extraordinary expenses or struggling to meet day-to-day needs.\"\n\nLearn More: https://bit.ly/3kf2b12\n\n#businessroundtable #CEO #leadership"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 25
+            },
+            "gating_info": null,
+            "id": "2369236989008185267",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "CDhOH0ejIez",
+            "tags": [
+                "CEO",
+                "Repost",
+                "businessroundtable",
+                "leadership"
+            ],
+            "taken_at_timestamp": 1596655079,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/116791246_336077564239670_5765432923822227855_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=4_MH7xZtx0gAX8VauFU&edm=APU89FAAAAAA&ccb=7-4&oh=db9701d4437c10f8b6a3c4847dc90c82&oe=60A7D58D&_nc_sid=86f79a&ig_cache_key=MjM2OTIzNjk4NTEwNzQ1NzI5NQ%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/116791246_336077564239670_5765432923822227855_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=4_MH7xZtx0gAX8VauFU&edm=APU89FAAAAAA&ccb=7-4&oh=5968fabffd382ee6e256d59bd3643875&oe=60A76C8B&_nc_sid=86f79a&ig_cache_key=MjM2OTIzNjk4NTEwNzQ1NzI5NQ%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/116791246_336077564239670_5765432923822227855_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=4_MH7xZtx0gAX8VauFU&edm=APU89FAAAAAA&ccb=7-4&oh=a3384fb7ab48da41b76814dfde64cee6&oe=60A9C8B5&_nc_sid=86f79a&ig_cache_key=MjM2OTIzNjk4NTEwNzQ1NzI5NQ%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/116791246_336077564239670_5765432923822227855_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=4_MH7xZtx0gAX8VauFU&edm=APU89FAAAAAA&ccb=7-4&oh=e9e358ad731b795f5731c8e94244ac32&oe=60A73174&_nc_sid=86f79a&ig_cache_key=MjM2OTIzNjk4NTEwNzQ1NzI5NQ%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/116791246_336077564239670_5765432923822227855_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=4_MH7xZtx0gAX8VauFU&edm=APU89FAAAAAA&ccb=7-4&oh=772fc70c0b7910e4b69fdfa0eb37f871&oe=60A8268A&_nc_sid=86f79a&ig_cache_key=MjM2OTIzNjk4NTEwNzQ1NzI5NQ%3D%3D.2-ccb7-4"
+                }
+            ],
+            "thumbnail_src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/116791246_336077564239670_5765432923822227855_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=4_MH7xZtx0gAX8VauFU&edm=APU89FAAAAAA&ccb=7-4&oh=772fc70c0b7910e4b69fdfa0eb37f871&oe=60A8268A&_nc_sid=86f79a&ig_cache_key=MjM2OTIzNjk4NTEwNzQ1NzI5NQ%3D%3D.2-ccb7-4",
+            "urls": [
+                "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/116791246_336077564239670_5765432923822227855_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=4_MH7xZtx0gAX8VauFU&edm=AABBvjUAAAAA&ccb=7-4&oh=2cd5fd521f96edeb1bcc220bf49db18f&oe=60A98ACE&_nc_sid=83d603&ig_cache_key=MjM2OTIzNjk4NTEwNzQ1NzI5NQ%3D%3D.2-ccb7-4",
+                "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/117089346_148025290239415_5690857465000488494_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=ha5Cqf6R5oUAX9RWCI3&edm=AABBvjUAAAAA&ccb=7-4&oh=df0022e5f7de1b7186ec7ce08d9fd59b&oe=60A89537&_nc_sid=83d603&ig_cache_key=MjM2OTIzNjk4NTE0MTAxNzY5Mg%3D%3D.2-ccb7-4"
+            ],
+            "username": "cbre"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/104311417_402425997380883_6867102865310108600_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=fjIASybzDDEAX9XTZGC&edm=APU89FAAAAAA&ccb=7-4&oh=f28d4ba793f7a0c3521016f362b452a7&oe=60A80419&_nc_sid=86f79a&ig_cache_key=MjMzNDk4OTg3NDY5OTc5MDc4Ng%3D%3D.2-ccb7-4",
+            "edge_media_preview_like": {
+                "count": 666
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "#Juneteenth, also known as Freedom Day, serves as an important and timely reminder of how Black people have faced delays in achieving equality, even after laws were passed years before. CBRE will continue to strive for equality as we stand against racism."
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 10
+            },
+            "gating_info": null,
+            "id": "2334989874699790786",
+            "is_video": false,
+            "media_preview": "ACoqwo1TYCylizEDBx0A9j607YnTy3/76/8AsaRPuJ/vP/JakOP/AK3H+FIRHtX+4/5//Y0mwf3G/P8A+xqbGOuD+X+FHvx79P8ACmFv6uVXUAZAKnOCCf8A6wqKpCRtx7/0qOgEWk+4n+8/8l9x/OpM+/4/5aoR9xO3zNyPotKxC5Ac5+uR+nWkhk3b1/z/AL1Rs5A4wR/vc/o3NREk8b+D9aiIx05pgJRRRQBaRQ8YG5VKsThjjqF9vajyh/ej/M1WopWETGH/AGk/P/61J5P+0v5//WqKimGvck8r/aX8/wD61J5f+0v5/wD1qZRQFn3P/9k=",
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "CBnjOtznWnC",
+            "tags": [
+                "Juneteenth"
+            ],
+            "taken_at_timestamp": 1592572507,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/s150x150/104311417_402425997380883_6867102865310108600_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=fjIASybzDDEAX9XTZGC&edm=APU89FAAAAAA&ccb=7-4&oh=405ee8d3a38ecb1eda7a29bc8f7e327e&oe=60A7516D&_nc_sid=86f79a&ig_cache_key=MjMzNDk4OTg3NDY5OTc5MDc4Ng%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/s240x240/104311417_402425997380883_6867102865310108600_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=fjIASybzDDEAX9XTZGC&edm=APU89FAAAAAA&ccb=7-4&oh=7cb1a5f229d1aaf126465d4623f8ee59&oe=60A83AEB&_nc_sid=86f79a&ig_cache_key=MjMzNDk4OTg3NDY5OTc5MDc4Ng%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/s320x320/104311417_402425997380883_6867102865310108600_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=fjIASybzDDEAX9XTZGC&edm=APU89FAAAAAA&ccb=7-4&oh=dcf1cabcc162d45e86614b895351b4d1&oe=60A72455&_nc_sid=86f79a&ig_cache_key=MjMzNDk4OTg3NDY5OTc5MDc4Ng%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/s480x480/104311417_402425997380883_6867102865310108600_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=fjIASybzDDEAX9XTZGC&edm=APU89FAAAAAA&ccb=7-4&oh=b3633492baf2322b1f980d23e3a54170&oe=60A9CC14&_nc_sid=86f79a&ig_cache_key=MjMzNDk4OTg3NDY5OTc5MDc4Ng%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/104311417_402425997380883_6867102865310108600_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=fjIASybzDDEAX9XTZGC&edm=APU89FAAAAAA&ccb=7-4&oh=143a55e7d16132743b395789e2f6abf1&oe=60A7EBD2&_nc_sid=86f79a&ig_cache_key=MjMzNDk4OTg3NDY5OTc5MDc4Ng%3D%3D.2-ccb7-4"
+                }
+            ],
+            "thumbnail_src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/104311417_402425997380883_6867102865310108600_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=fjIASybzDDEAX9XTZGC&edm=APU89FAAAAAA&ccb=7-4&oh=143a55e7d16132743b395789e2f6abf1&oe=60A7EBD2&_nc_sid=86f79a&ig_cache_key=MjMzNDk4OTg3NDY5OTc5MDc4Ng%3D%3D.2-ccb7-4",
+            "urls": [
+                "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/104311417_402425997380883_6867102865310108600_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=fjIASybzDDEAX9XTZGC&edm=APU89FAAAAAA&ccb=7-4&oh=f28d4ba793f7a0c3521016f362b452a7&oe=60A80419&_nc_sid=86f79a&ig_cache_key=MjMzNDk4OTg3NDY5OTc5MDc4Ng%3D%3D.2-ccb7-4"
+            ],
+            "username": "cbre"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/fr/e15/s1080x1080/103673032_724401688324859_5968297577438004022_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=viVcIw6TD88AX-FAz_I&edm=APU89FAAAAAA&ccb=7-4&oh=fac559022171b8504a77da4af371e26e&oe=60A9939A&_nc_sid=86f79a&ig_cache_key=MjMzMjg3OTg2MTI3NjUwNjg0OQ%3D%3D.2-ccb7-4",
+            "edge_media_preview_like": {
+                "count": 917
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "CBRE celebrates #Pride2020 as part of our ongoing commitment to creating an environment where all of our LGBTQ colleagues can bring their whole selves to work and build thriving careers."
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 13
+            },
+            "gating_info": null,
+            "id": "2332879861276506849",
+            "is_video": false,
+            "media_preview": "ACoq0dshl3DcGB5yTtx9OhGOg65q8Vl/vL/3z/8AZUo5Lfh/KoMDPY/lx+lSgve1+hLsm/vr/wB8/wD2VJsn/vr/AN8f/ZVGQPbP4f4UpAJwePXp/hVCt/V2SRF9zK5DYCkEDHXPufSrFQRoVdvTaoz9N2f51PQCIV6t+H8qhzx/9cf/ABVTL1b8P5VHtB7g8ep/xpL/ADGNOM+/rkf/ABVID/nI/wDi6lAXqW/In/GpDGD6/maYDkOVH+f8adRRQBX3FGPDHOOQPb603zW/uv8A98j/ABqwKKVhWIftB/uP+Q/xpPtJ/uSfkP8AGp6KYa9yv9pP/POT8h/jR9qP/POT/vkf41YooCz7n//Z",
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "CBgDd-rDHrh",
+            "tags": [
+                "Pride2020"
+            ],
+            "taken_at_timestamp": 1592320974,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e15/s150x150/103673032_724401688324859_5968297577438004022_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=viVcIw6TD88AX-FAz_I&edm=APU89FAAAAAA&ccb=7-4&oh=f9396207dba026c3661ec1be49dcfdc6&oe=60A7DF2E&_nc_sid=86f79a&ig_cache_key=MjMzMjg3OTg2MTI3NjUwNjg0OQ%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e15/s240x240/103673032_724401688324859_5968297577438004022_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=viVcIw6TD88AX-FAz_I&edm=APU89FAAAAAA&ccb=7-4&oh=ad7659efa3cd94efccd0095af735ee33&oe=60AA746C&_nc_sid=86f79a&ig_cache_key=MjMzMjg3OTg2MTI3NjUwNjg0OQ%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e15/s320x320/103673032_724401688324859_5968297577438004022_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=viVcIw6TD88AX-FAz_I&edm=APU89FAAAAAA&ccb=7-4&oh=335bbe690e3a43889b8bd0b91cb69fab&oe=60A72256&_nc_sid=86f79a&ig_cache_key=MjMzMjg3OTg2MTI3NjUwNjg0OQ%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e15/s480x480/103673032_724401688324859_5968297577438004022_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=viVcIw6TD88AX-FAz_I&edm=APU89FAAAAAA&ccb=7-4&oh=df67ce21ada9a58c9d1ef946829db32e&oe=60A84393&_nc_sid=86f79a&ig_cache_key=MjMzMjg3OTg2MTI3NjUwNjg0OQ%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/103673032_724401688324859_5968297577438004022_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=viVcIw6TD88AX-FAz_I&edm=APU89FAAAAAA&ccb=7-4&oh=a8703e67e0b045b9232d3be161489e96&oe=60A95651&_nc_sid=86f79a&ig_cache_key=MjMzMjg3OTg2MTI3NjUwNjg0OQ%3D%3D.2-ccb7-4"
+                }
+            ],
+            "thumbnail_src": "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/103673032_724401688324859_5968297577438004022_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=viVcIw6TD88AX-FAz_I&edm=APU89FAAAAAA&ccb=7-4&oh=a8703e67e0b045b9232d3be161489e96&oe=60A95651&_nc_sid=86f79a&ig_cache_key=MjMzMjg3OTg2MTI3NjUwNjg0OQ%3D%3D.2-ccb7-4",
+            "urls": [
+                "https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/fr/e15/s1080x1080/103673032_724401688324859_5968297577438004022_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=viVcIw6TD88AX-FAz_I&edm=APU89FAAAAAA&ccb=7-4&oh=fac559022171b8504a77da4af371e26e&oe=60A9939A&_nc_sid=86f79a&ig_cache_key=MjMzMjg3OTg2MTI3NjUwNjg0OQ%3D%3D.2-ccb7-4"
+            ],
+            "username": "cbre"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/101538364_734242637115423_4961896397151485217_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=eEk9J-aRyPEAX805X8C&edm=APU89FAAAAAA&ccb=7-4&oh=03bf7c95dd8f4f0809e486f530f57ecd&oe=60A79FFD&_nc_sid=86f79a&ig_cache_key=MjMyMjc3NDM3NTU4Mzg5MzY3Mw%3D%3D.2-ccb7-4",
+            "edge_media_preview_like": {
+                "count": 1669
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "#BlackoutTuesday"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 39
+            },
+            "gating_info": null,
+            "id": "2322774375583893673",
+            "is_video": false,
+            "media_preview": "ACoq5miiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP/Z",
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "CA8JvzuDsip",
+            "tags": [
+                "BlackoutTuesday"
+            ],
+            "taken_at_timestamp": 1591116307,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/s150x150/101538364_734242637115423_4961896397151485217_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=eEk9J-aRyPEAX805X8C&edm=APU89FAAAAAA&ccb=7-4&oh=3ca8638a78e6026fc5157d75ba025fa0&oe=60A7C2C9&_nc_sid=86f79a&ig_cache_key=MjMyMjc3NDM3NTU4Mzg5MzY3Mw%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/s240x240/101538364_734242637115423_4961896397151485217_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=eEk9J-aRyPEAX805X8C&edm=APU89FAAAAAA&ccb=7-4&oh=278d35124f75db7e9db7e01b5cb614f0&oe=60AA024F&_nc_sid=86f79a&ig_cache_key=MjMyMjc3NDM3NTU4Mzg5MzY3Mw%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/s320x320/101538364_734242637115423_4961896397151485217_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=eEk9J-aRyPEAX805X8C&edm=APU89FAAAAAA&ccb=7-4&oh=8c43cc2ac9516d5acc6c537a5cc31c05&oe=60AA70F1&_nc_sid=86f79a&ig_cache_key=MjMyMjc3NDM3NTU4Mzg5MzY3Mw%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/s480x480/101538364_734242637115423_4961896397151485217_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=eEk9J-aRyPEAX805X8C&edm=APU89FAAAAAA&ccb=7-4&oh=0847be86279b75f2e1979a4d27e0290e&oe=60A7B0F8&_nc_sid=86f79a&ig_cache_key=MjMyMjc3NDM3NTU4Mzg5MzY3Mw%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/101538364_734242637115423_4961896397151485217_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=eEk9J-aRyPEAX805X8C&edm=APU89FAAAAAA&ccb=7-4&oh=ec21b2bdf58750c36b187472dc779a0f&oe=60A9AFB6&_nc_sid=86f79a&ig_cache_key=MjMyMjc3NDM3NTU4Mzg5MzY3Mw%3D%3D.2-ccb7-4"
+                }
+            ],
+            "thumbnail_src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/101538364_734242637115423_4961896397151485217_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=eEk9J-aRyPEAX805X8C&edm=APU89FAAAAAA&ccb=7-4&oh=ec21b2bdf58750c36b187472dc779a0f&oe=60A9AFB6&_nc_sid=86f79a&ig_cache_key=MjMyMjc3NDM3NTU4Mzg5MzY3Mw%3D%3D.2-ccb7-4",
+            "urls": [
+                "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/101538364_734242637115423_4961896397151485217_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=eEk9J-aRyPEAX805X8C&edm=APU89FAAAAAA&ccb=7-4&oh=03bf7c95dd8f4f0809e486f530f57ecd&oe=60A79FFD&_nc_sid=86f79a&ig_cache_key=MjMyMjc3NDM3NTU4Mzg5MzY3Mw%3D%3D.2-ccb7-4"
+            ],
+            "username": "cbre"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/98488526_197589901253020_5489502968576067623_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=104&_nc_ohc=GWWmO9tRR8AAX-0_eb3&edm=APU89FAAAAAA&ccb=7-4&oh=9f2f2037d756b3692a8e8e8e0bc64ebb&oe=60A99984&_nc_sid=86f79a&ig_cache_key=MjMxMjAxMzQ2MDc2MTU0MjMyOA%3D%3D.2-ccb7-4",
+            "edge_media_preview_like": {
+                "count": 614
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "CBRE rises to #128 on the #Fortune500. \n@fortunemag"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 23
+            },
+            "gating_info": null,
+            "id": "2312013460761542328",
+            "is_video": false,
+            "media_preview": "ACoqos20E+lR+cB1B6Z7emcflUjLuBHrUbRAnOccYx+GP5dqxVj1Jc32f6/rQcsw9D3PUcY60G4X0PP/ANb/ABq3a6c065UgBdy8574PbPSpv7CkOMspI57+3t7Yrqi7JWZ5078zvuUkffzjHOKfVs6XLAjNkPjLYHX1Pbk//qrJ+2p6H9P8a0Ul3Myxg0U2CC/nwV3AHu2APrz1/DNasOlXB5llx7KAf1IH8q4+Vnd7ddmWtJOIz7sf5CtWsk6QnmJLvfMZzzjnBz2Ax74HIrWq1ocsnzNvuFc5LoO92YHAZiQPQE9K6OoDdRKcFgCODTIM3Rb0TwiMn54xj6r2P4dD/wDXFaUqSE5RscYwRn8eorh9OYrcx4JGWA49CeR+Nd/QBU2T/wB4Y/3f/r0eXKWzvwuc4wDx6Zq3RQBXurlbWMyv0HQep7AfX/6/SvP5JnkYuTyxJP1JzW54iY+ai5ONucds5POK5+gD/9k=",
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "CAV6_40nP64",
+            "tags": [
+                "Fortune500",
+                "128"
+            ],
+            "taken_at_timestamp": 1589833505,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/s150x150/98488526_197589901253020_5489502968576067623_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=104&_nc_ohc=GWWmO9tRR8AAX-0_eb3&edm=APU89FAAAAAA&ccb=7-4&oh=7f7315a242f0c228128b9cd1c9a99417&oe=60A9E280&_nc_sid=86f79a&ig_cache_key=MjMxMjAxMzQ2MDc2MTU0MjMyOA%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/s240x240/98488526_197589901253020_5489502968576067623_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=104&_nc_ohc=GWWmO9tRR8AAX-0_eb3&edm=APU89FAAAAAA&ccb=7-4&oh=78983066c6663a626d94846e03ab9bf5&oe=60A8B7B6&_nc_sid=86f79a&ig_cache_key=MjMxMjAxMzQ2MDc2MTU0MjMyOA%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/s320x320/98488526_197589901253020_5489502968576067623_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=104&_nc_ohc=GWWmO9tRR8AAX-0_eb3&edm=APU89FAAAAAA&ccb=7-4&oh=56479a1e1126dfde3f9fdc013320d84d&oe=60A8AED0&_nc_sid=86f79a&ig_cache_key=MjMxMjAxMzQ2MDc2MTU0MjMyOA%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/s480x480/98488526_197589901253020_5489502968576067623_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=104&_nc_ohc=GWWmO9tRR8AAX-0_eb3&edm=APU89FAAAAAA&ccb=7-4&oh=2e13329aea96450c6a04f4d63d3985fb&oe=60A9CD16&_nc_sid=86f79a&ig_cache_key=MjMxMjAxMzQ2MDc2MTU0MjMyOA%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/98488526_197589901253020_5489502968576067623_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=104&_nc_ohc=GWWmO9tRR8AAX-0_eb3&edm=APU89FAAAAAA&ccb=7-4&oh=6b99ce20a7257950c0e9da189976a08a&oe=60AA57FA&_nc_sid=86f79a&ig_cache_key=MjMxMjAxMzQ2MDc2MTU0MjMyOA%3D%3D.2-ccb7-4"
+                }
+            ],
+            "thumbnail_src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/98488526_197589901253020_5489502968576067623_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=104&_nc_ohc=GWWmO9tRR8AAX-0_eb3&edm=APU89FAAAAAA&ccb=7-4&oh=6b99ce20a7257950c0e9da189976a08a&oe=60AA57FA&_nc_sid=86f79a&ig_cache_key=MjMxMjAxMzQ2MDc2MTU0MjMyOA%3D%3D.2-ccb7-4",
+            "urls": [
+                "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/98488526_197589901253020_5489502968576067623_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=104&_nc_ohc=GWWmO9tRR8AAX-0_eb3&edm=APU89FAAAAAA&ccb=7-4&oh=9f2f2037d756b3692a8e8e8e0bc64ebb&oe=60A99984&_nc_sid=86f79a&ig_cache_key=MjMxMjAxMzQ2MDc2MTU0MjMyOA%3D%3D.2-ccb7-4"
+            ],
+            "username": "cbre"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 565,
+                "width": 1080
+            },
+            "display_url": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/96011962_954902931597523_7306780772765143529_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=grR6QbXYd8YAX9Nyn4w&edm=APU89FAAAAAA&ccb=7-4&oh=a42203b623adb64851d0b5ae774fe85f&oe=60A9AB62&_nc_sid=86f79a&ig_cache_key=MjMwMzI0Mzg3MTgzMTYzNzgwMQ%3D%3D.2-ccb7-4",
+            "edge_media_preview_like": {
+                "count": 529
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "When essential workers at Pacific Park Plaza in Honolulu needed masks, Katherine Cummins and Angie Hodge from the CBRE Property Management Team worked together to source fabrics and make masks at home to be delivered to healthcare staff in the community. #CBREUnited \n#COVID19 #essentialworkers #healthcare #propertymanagement #CBREcares #supportingcommunities #Honolulu"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 5
+            },
+            "gating_info": null,
+            "id": "2303243871831637801",
+            "is_video": false,
+            "media_preview": "ACoVJ4lGZepkABGPQcVWin8y38sdUH4Hr/XitKNWA7H6+vUfkahtp3C4KD1+6QPyAPqR9KLA2ZEW5zluVUE4x1I5/ln8KnughP7sMcLlhjueR/OtYTMhJCfe653EcD0x6cUy2nYZKgNvIBKggcfh78807InmRl2zrH1JVsc5556jGO3bn0rdSYsoOM5ANUr2LzWQgAHdyQO3+fWpggAxk8U7aDLNKKKKAAioIIPJXbnPP0oooET03JoooA//2Q==",
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "B_2xBkrnr8p",
+            "tags": [
+                "supportingcommunities",
+                "propertymanagement",
+                "Honolulu",
+                "essentialworkers",
+                "CBREUnited",
+                "COVID19",
+                "healthcare",
+                "CBREcares"
+            ],
+            "taken_at_timestamp": 1588788089,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/c257.0.565.565a/s150x150/96011962_954902931597523_7306780772765143529_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=grR6QbXYd8YAX9Nyn4w&edm=APU89FAAAAAA&ccb=7-4&oh=b68850464021a2284d71d169fe5aebe5&oe=60AA1CC8&_nc_sid=86f79a&ig_cache_key=MjMwMzI0Mzg3MTgzMTYzNzgwMQ%3D%3D.2.c-ccb7-4"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/c257.0.565.565a/s240x240/96011962_954902931597523_7306780772765143529_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=grR6QbXYd8YAX9Nyn4w&edm=APU89FAAAAAA&ccb=7-4&oh=985ace94ae87051b79b20d01609c6d43&oe=60AA734E&_nc_sid=86f79a&ig_cache_key=MjMwMzI0Mzg3MTgzMTYzNzgwMQ%3D%3D.2.c-ccb7-4"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/c257.0.565.565a/s320x320/96011962_954902931597523_7306780772765143529_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=grR6QbXYd8YAX9Nyn4w&edm=APU89FAAAAAA&ccb=7-4&oh=fd111f405b466ca3f4e2789448eea706&oe=60A9C938&_nc_sid=86f79a&ig_cache_key=MjMwMzI0Mzg3MTgzMTYzNzgwMQ%3D%3D.2.c-ccb7-4"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/c257.0.565.565a/s480x480/96011962_954902931597523_7306780772765143529_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=grR6QbXYd8YAX9Nyn4w&edm=APU89FAAAAAA&ccb=7-4&oh=ba5cb3da833451e0f1e00f8d53d0543a&oe=60A8B32E&_nc_sid=86f79a&ig_cache_key=MjMwMzI0Mzg3MTgzMTYzNzgwMQ%3D%3D.2.c-ccb7-4"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/c257.0.565.565a/96011962_954902931597523_7306780772765143529_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=grR6QbXYd8YAX9Nyn4w&edm=APU89FAAAAAA&ccb=7-4&oh=4ad768f04bc50188bb640cd251fd5891&oe=60A8389B&_nc_sid=86f79a&ig_cache_key=MjMwMzI0Mzg3MTgzMTYzNzgwMQ%3D%3D.2.c-ccb7-4"
+                }
+            ],
+            "thumbnail_src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/c257.0.565.565a/96011962_954902931597523_7306780772765143529_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=grR6QbXYd8YAX9Nyn4w&edm=APU89FAAAAAA&ccb=7-4&oh=4ad768f04bc50188bb640cd251fd5891&oe=60A8389B&_nc_sid=86f79a&ig_cache_key=MjMwMzI0Mzg3MTgzMTYzNzgwMQ%3D%3D.2.c-ccb7-4",
+            "urls": [
+                "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/96011962_954902931597523_7306780772765143529_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=grR6QbXYd8YAX9Nyn4w&edm=APU89FAAAAAA&ccb=7-4&oh=a42203b623adb64851d0b5ae774fe85f&oe=60A9AB62&_nc_sid=86f79a&ig_cache_key=MjMwMzI0Mzg3MTgzMTYzNzgwMQ%3D%3D.2-ccb7-4"
+            ],
+            "username": "cbre"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/93969153_2614497852165387_4331008819462230014_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=mXq6SRQhZbcAX_jBIe_&edm=APU89FAAAAAA&ccb=7-4&oh=c2ec6e8fa8dd48fa715859163f3f9828&oe=60A9CF47&_nc_sid=86f79a&ig_cache_key=MjI5Mjk0NjE1NTM1NjQxMTk4MA%3D%3D.2-ccb7-4",
+            "edge_media_preview_like": {
+                "count": 510
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "We are proud to support communities and our people in need around the world through the #COVID19 Relief Fund. Learn more on our website, link in bio. #CBREunited"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 5
+            },
+            "gating_info": null,
+            "id": "2292946155356411980",
+            "is_video": false,
+            "media_preview": "ACoqqWsayZ3MFIOOSBxj5Tg8nJ4OKnktEZR+8UH/APWfwPt/+qorcxo3zpvJPB7gEfN+PAx6ZNXS0SsW2HBXBBGeSeuD2+mPwpsEY9zbiNVKsHz94gj8MDrjHf8AlVIKSeK1pTbnJ2OCe/oc9cZx6e3bvmslyQeKkZKI3HanZk9DTUuGB5NWfNHoaY9O5ZAwc+lI7lqYDuqQLSY4qxXKFjtHeo5IlU7FO5j19quFcEGr5t0bkgUkDMJwmwKBjA5J6ls9c+mKjFu3qPzrbe0TnAqH7Gvp+lXdGVmQwKG5J5/D/GrwjXrz+n+NUoOlaCVJoCx5q2oGOajHSpBSEx2BTdopabRcR//Z",
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "B_SLmE3HdhM",
+            "tags": [
+                "COVID19",
+                "CBREunited"
+            ],
+            "taken_at_timestamp": 1587560506,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/s150x150/93969153_2614497852165387_4331008819462230014_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=mXq6SRQhZbcAX_jBIe_&edm=APU89FAAAAAA&ccb=7-4&oh=7f828e6af09e985a8112f6112d0ee684&oe=60A8AE33&_nc_sid=86f79a&ig_cache_key=MjI5Mjk0NjE1NTM1NjQxMTk4MA%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/s240x240/93969153_2614497852165387_4331008819462230014_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=mXq6SRQhZbcAX_jBIe_&edm=APU89FAAAAAA&ccb=7-4&oh=0fdcd7fe1d943b27aa37c9dbf0377f9e&oe=60A853B5&_nc_sid=86f79a&ig_cache_key=MjI5Mjk0NjE1NTM1NjQxMTk4MA%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/s320x320/93969153_2614497852165387_4331008819462230014_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=mXq6SRQhZbcAX_jBIe_&edm=APU89FAAAAAA&ccb=7-4&oh=b644e9f6be4b26486fd0712c1cdf335a&oe=60A972CB&_nc_sid=86f79a&ig_cache_key=MjI5Mjk0NjE1NTM1NjQxMTk4MA%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/e15/s480x480/93969153_2614497852165387_4331008819462230014_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=mXq6SRQhZbcAX_jBIe_&edm=APU89FAAAAAA&ccb=7-4&oh=99dc851f0065afbb9c173acfb20bfc73&oe=60A8CF4E&_nc_sid=86f79a&ig_cache_key=MjI5Mjk0NjE1NTM1NjQxMTk4MA%3D%3D.2-ccb7-4"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93969153_2614497852165387_4331008819462230014_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=mXq6SRQhZbcAX_jBIe_&edm=APU89FAAAAAA&ccb=7-4&oh=3a517ada24fc0eae52956fa517e22999&oe=60AA3B50&_nc_sid=86f79a&ig_cache_key=MjI5Mjk0NjE1NTM1NjQxMTk4MA%3D%3D.2-ccb7-4"
+                }
+            ],
+            "thumbnail_src": "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/93969153_2614497852165387_4331008819462230014_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=mXq6SRQhZbcAX_jBIe_&edm=APU89FAAAAAA&ccb=7-4&oh=3a517ada24fc0eae52956fa517e22999&oe=60AA3B50&_nc_sid=86f79a&ig_cache_key=MjI5Mjk0NjE1NTM1NjQxMTk4MA%3D%3D.2-ccb7-4",
+            "urls": [
+                "https://instagram.feoh4-3.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/93969153_2614497852165387_4331008819462230014_n.jpg?tp=1&_nc_ht=instagram.feoh4-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=mXq6SRQhZbcAX_jBIe_&edm=APU89FAAAAAA&ccb=7-4&oh=c2ec6e8fa8dd48fa715859163f3f9828&oe=60A9CF47&_nc_sid=86f79a&ig_cache_key=MjI5Mjk0NjE1NTM1NjQxMTk4MA%3D%3D.2-ccb7-4"
+            ],
+            "username": "cbre"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1334,
+                "width": 1080
+            },
+            "display_url": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/fr/e15/p1080x1080/79380331_1757430304390078_3339043761605859802_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=110&_nc_ohc=7ptrypHZYIcAX9NHT8p&edm=APU89FAAAAAA&ccb=7-4&oh=bb7a30123a40222420f2b8bfde3f73b5&oe=60A7889D&_nc_sid=86f79a&ig_cache_key=MjE5NTIyMTc4MjExNDExMjUyNQ%3D%3D.2-ccb7-4",
+            "edge_media_preview_like": {
+                "count": 964
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "An evening view of Toronto, Ontario, Canada. The CN Tower (middle)  is one of the world's tallest freestanding structures at 1,815 ft (553.33 m). Photo credit: @shoelayce\n.\n#cntower #visualizetoronto #cityscape #visualtoronto #ontario #photoobserve #photography #photooftheday #photo #photographer #picoftheday #primeshots #thehub_skyline #city_captures #city_features #cityscapes_unlimited #toronto"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 19
+            },
+            "gating_info": null,
+            "id": "2195221782114112525",
+            "is_video": false,
+            "media_preview": "ACIqwsUYqTbS7a2sYXI9uKTFWJF+Y9R9Rj9KbtosK45RwPpRUqrwKKVh3JPJIGTwPemMoGCPUg8cfge9MwSCcbse+f5+9WILd3Xe5O0cfTj0PH1qHU07G0aNn3ISwOe/9alCAjdkYxmopH8o7c7lP5n+n5dOhqASjGMHihTZLpLrv6mosQIBBHI9aKpiRCOhop8/kL2S7lyORGgckDPGOuaPOXauMc5B6+neq0P/AB7SfUUuBsj/AOBUpJWLhJuV/L9SxK0flOQqg7hjjtjms8SLhsYHH+FXJx+4f/fH8qz16N9P6itJJIxhJvd9/wAi0m3A4XoO1FIn3R9BRTsTfzZ//9k=",
+            "owner": {
+                "id": "348339031"
+            },
+            "shortcode": "B52_pR-HJQN",
+            "tags": [
+                "cityscape",
+                "visualtoronto",
+                "photooftheday",
+                "cntower",
+                "photographer",
+                "city_captures",
+                "ontario",
+                "photo",
+                "thehub_skyline",
+                "toronto",
+                "visualizetoronto",
+                "photography",
+                "city_features",
+                "cityscapes_unlimited",
+                "primeshots",
+                "photoobserve",
+                "picoftheday"
+            ],
+            "taken_at_timestamp": 1575910850,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/e15/c0.127.1080.1080a/s150x150/79380331_1757430304390078_3339043761605859802_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=110&_nc_ohc=7ptrypHZYIcAX9NHT8p&edm=APU89FAAAAAA&ccb=7-4&oh=f51c6aefa5bee0837ac164939363ce1a&oe=60A800FA&_nc_sid=86f79a&ig_cache_key=MjE5NTIyMTc4MjExNDExMjUyNQ%3D%3D.2.c-ccb7-4"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/e15/c0.127.1080.1080a/s240x240/79380331_1757430304390078_3339043761605859802_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=110&_nc_ohc=7ptrypHZYIcAX9NHT8p&edm=APU89FAAAAAA&ccb=7-4&oh=2352250bfd7f84336792156995c3ec80&oe=60A781C0&_nc_sid=86f79a&ig_cache_key=MjE5NTIyMTc4MjExNDExMjUyNQ%3D%3D.2.c-ccb7-4"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/e15/c0.127.1080.1080a/s320x320/79380331_1757430304390078_3339043761605859802_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=110&_nc_ohc=7ptrypHZYIcAX9NHT8p&edm=APU89FAAAAAA&ccb=7-4&oh=86384c9d5400d205cd79cb5ddb63dd6b&oe=60A92182&_nc_sid=86f79a&ig_cache_key=MjE5NTIyMTc4MjExNDExMjUyNQ%3D%3D.2.c-ccb7-4"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/e15/c0.127.1080.1080a/s480x480/79380331_1757430304390078_3339043761605859802_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=110&_nc_ohc=7ptrypHZYIcAX9NHT8p&edm=APU89FAAAAAA&ccb=7-4&oh=4d79539f11fb6f5e2593775bba311b3a&oe=60A8F887&_nc_sid=86f79a&ig_cache_key=MjE5NTIyMTc4MjExNDExMjUyNQ%3D%3D.2.c-ccb7-4"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.127.1080.1080a/s640x640/79380331_1757430304390078_3339043761605859802_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=110&_nc_ohc=7ptrypHZYIcAX9NHT8p&edm=APU89FAAAAAA&ccb=7-4&oh=c1006de0af665b37f9d7a2c5ab217df2&oe=60A6F6F0&_nc_sid=86f79a&ig_cache_key=MjE5NTIyMTc4MjExNDExMjUyNQ%3D%3D.2.c-ccb7-4"
+                }
+            ],
+            "thumbnail_src": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.127.1080.1080a/s640x640/79380331_1757430304390078_3339043761605859802_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=110&_nc_ohc=7ptrypHZYIcAX9NHT8p&edm=APU89FAAAAAA&ccb=7-4&oh=c1006de0af665b37f9d7a2c5ab217df2&oe=60A6F6F0&_nc_sid=86f79a&ig_cache_key=MjE5NTIyMTc4MjExNDExMjUyNQ%3D%3D.2.c-ccb7-4",
+            "urls": [
+                "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/fr/e15/p1080x1080/79380331_1757430304390078_3339043761605859802_n.jpg?tp=1&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=110&_nc_ohc=7ptrypHZYIcAX9NHT8p&edm=APU89FAAAAAA&ccb=7-4&oh=bb7a30123a40222420f2b8bfde3f73b5&oe=60A7889D&_nc_sid=86f79a&ig_cache_key=MjE5NTIyMTc4MjExNDExMjUyNQ%3D%3D.2-ccb7-4"
+            ],
+            "username": "cbre"
+        }
+    ]
+}
