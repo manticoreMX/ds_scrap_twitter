@@ -1,1 +1,0 @@
-2021-04-23 18:06:11,818 - instagram_scraper.app - WARNING - Retry after exception HTTPError('560 Server Error: - for url: https://www.instagram.com/xbox/') on https://www.instagram.com/xbox

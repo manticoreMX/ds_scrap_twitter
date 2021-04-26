@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const timeline = document.getElementById('timeline')
     const interval = document.getElementById('interval')
     const intervalContent = document.getElementById('interval-content')
+    const theme = document.getElementById('theme')
     const chrome = document.getElementsByClassName('chrome')
     const tweetLimit = document.getElementById('tweet-limit')
     const getLink = document.getElementById('get-link')
@@ -16,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
         for (const v of chrome) {
             if (v.checked) chromeValues += v.value + '-'
         }
-        const link = `${url}?user=${page.value}&timeline=${timeline.checked}&posts-limit=${tweetLimit.value}&interval=${interval.value}`
+        const link = `${url}?user=${page.value}&timeline=${timeline.checked}&theme=${theme.checked? 'dark' : 'light'}&posts-limit=${tweetLimit.value}&interval=${interval.value}`
         getLink.value = link;
     })
 

@@ -11,6 +11,9 @@
     $posts = 10;
     if(isset($_GET['posts-limit']))
         $posts = $_GET['posts-limit'];
+    $theme = 'light';
+        if(isset($_GET['theme']))
+            $theme = $_GET['theme'];
 ?>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
@@ -28,11 +31,16 @@
     .carousel-item {
         max-width: 500px;
     }
+    .dark .facebookPost .card{
+        background-color: #292F33;
+        color: white;
+        overflow: hidden;
+    }
 </style>
-<div class="container-fluid mt-4">
+<div class="container-fluid mt-4 <?=$theme?>">
     <div id="container" class="row"></div>
 </div>
-<div id="posts-carousel-content" class="carousel slide" data-bs-ride="carousel" data-bs-interval="<?=$interval?>" data-bs-pause="false">
+<div id="posts-carousel-content" class="carousel slide <?=$theme?>" data-bs-ride="carousel" data-bs-interval="<?=$interval?>" data-bs-pause="false">
     <div class="carousel-inner"  id="posts-carousel">
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#posts-carousel-content" data-bs-slide="prev">
